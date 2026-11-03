@@ -1,0 +1,175 @@
+{
+  "id": "pg_npn0ddf2aq",
+  "title": "Links",
+  "slug": "links",
+  "seo": {
+    "description": "Access recommended links to trusted mental health organizations, support networks, and educational content."
+  },
+  "sections": [
+    {
+      "id": "sec_zfp2hk9a00",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        }
+      },
+      "style": {
+        "colorTheme": "light"
+      },
+      "blocks": [
+        {
+          "id": "blk_pa2fwgmjnq",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 1
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Important websites"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "National Institute for Mental Health",
+                      "marks": [
+                        {
+                          "type": "link",
+                          "attrs": {
+                            "href": "https://www.nimh.nih.gov/index.shtml",
+                            "newTab": true
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Psych Central",
+                      "marks": [
+                        {
+                          "type": "link",
+                          "attrs": {
+                            "href": "http://psychcentral.com/",
+                            "newTab": true
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": ": Great mental health information, tests, and articles"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Mayo Clinic ",
+                      "marks": [
+                        {
+                          "type": "link",
+                          "attrs": {
+                            "href": "http://www.mayoclinic.org/patient-care-and-health-information",
+                            "newTab": true
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": "health information"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "U.S. News and World Report Wellness",
+                      "marks": [
+                        {
+                          "type": "link",
+                          "attrs": {
+                            "href": "http://health.usnews.com/wellness",
+                            "newTab": true
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Nutrition Facts",
+                      "marks": [
+                        {
+                          "type": "link",
+                          "attrs": {
+                            "href": "http://nutritionfacts.org/",
+                            "newTab": true
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": ": Great source of research"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Consumer Lab",
+                      "marks": [
+                        {
+                          "type": "link",
+                          "attrs": {
+                            "href": "https://www.consumerlab.com/",
+                            "newTab": true
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": ": Independent testing of supplements (you need to pay for this info)"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "preset": "starter/stack-12@1"
+    }
+  ]
+}

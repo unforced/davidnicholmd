@@ -1,0 +1,274 @@
+{
+  "id": "pg_7g1jjhj9d0",
+  "title": "Mental Health Information",
+  "slug": "mental-health-information",
+  "seo": {
+    "title": "Mental Health Info",
+    "description": "Learn about mental health conditions, emotional well-being, and trauma through accessible and informed content."
+  },
+  "sections": [
+    {
+      "id": "sec_qhr81p3dwn",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        }
+      },
+      "style": {
+        "colorTheme": "light"
+      },
+      "blocks": [
+        {
+          "id": "blk_eqphg5v8qw",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 1
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Mental Health Information"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "preset": "starter/stack-12@1"
+    },
+    {
+      "id": "sec_jdj304h562",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        }
+      },
+      "style": {
+        "colorTheme": "light"
+      },
+      "blocks": [
+        {
+          "id": "blk_zrb6tjh5w5",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 2
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Meditation"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "There are many meditation, relaxation or prayer practices that are extremely helpful for your emotional, cognitive, physical and spiritual health. A foundation practice is to sit comfortably in a quiet place where you will not be interrupted. Close your eyes, take a few long slow breaths and then listen to the sounds for a minute or so. Next, shift your attention to the sensations in your body, softening any muscles that are tight or tense. Then bring your attention to your breathing, attending to the flow of air in and out your nostrils, and the natural rise and fall of your chest and belly. Try this for a minute, or five minutes, then work your way up to 20 minutes once or twice a day. Thoughts and feelings naturally arise in mind and body. Allow them to pass. When you find you have been carried away by thoughts, just bring your attention back to the now of breathing, sounds, or body sensations."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "An excellent app to download on your smartphone is "
+                    },
+                    {
+                      "type": "text",
+                      "text": "Headspace",
+                      "marks": [
+                        {
+                          "type": "link",
+                          "attrs": {
+                            "href": "http://headspace.com",
+                            "newTab": true
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": ". It will provide 10 ten-minute guided meditations to start you off on a daily practice. After that you can pay a monthly fee to extend the length and depth of your meditation. There are 30-session courses in using meditation to help with depression, self-esteem, stress, anxiety, sleep, pregnancy, relationships and much more."
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "preset": "starter/stack-12@1"
+    },
+    {
+      "id": "sec_ksb171favf",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        }
+      },
+      "style": {
+        "colorTheme": "light"
+      },
+      "blocks": [
+        {
+          "id": "blk_9mq1kmbrm8",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 2
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Cognitive Function Test"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "If you are concerned about memory problems that are worsening with age, please go to this link and "
+                    },
+                    {
+                      "type": "text",
+                      "text": "take this test",
+                      "marks": [
+                        {
+                          "type": "link",
+                          "attrs": {
+                            "href": "http://cft3.foodforthebrain.org/"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": "."
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "preset": "starter/stack-12@1"
+    },
+    {
+      "id": "sec_wktfbmr3s5",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        }
+      },
+      "style": {
+        "colorTheme": "light"
+      },
+      "blocks": [
+        {
+          "id": "blk_pnv8jh6j09",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 2
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Noise"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "We subject ourselves to an 'acoustic startle response' each morning if we're aroused by the unpleasant sound of an an alarm clock. Loud or startling noise can, in the long run, induce cardiovascular and digestive distress. Noise has been shown to cause irritability and aggression."
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        {
+          "id": "blk_82he544y4z",
+          "type": "spacer",
+          "v": 1,
+          "fields": {
+            "height": "md"
+          }
+        },
+        {
+          "id": "blk_m768d8cqkv",
+          "type": "social-links",
+          "v": 1,
+          "fields": {
+            "source": "site",
+            "profiles": [
+              {
+                "network": "instagram",
+                "url": "https://instagram.com/juniperyoga"
+              },
+              {
+                "network": "youtube",
+                "url": "https://youtube.com/@juniperyoga"
+              },
+              {
+                "network": "email",
+                "url": "mailto:hello@juniperyoga.com"
+              }
+            ]
+          }
+        }
+      ],
+      "preset": "starter/stack-12@1"
+    }
+  ]
+}

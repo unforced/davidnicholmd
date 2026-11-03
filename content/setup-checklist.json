@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "source": "import",
+  "from": "Squarespace",
+  "items": [
+    {
+      "id": "forms-email",
+      "kind": "forms-email",
+      "title": "Get form messages by email",
+      "detail": "1 form(s) came across. Messages are kept in OpenSpace; choose where to get an email when someone writes.",
+      "where": [
+        "/contact"
+      ],
+      "count": 1,
+      "status": "todo"
+    },
+    {
+      "id": "domain",
+      "kind": "domain",
+      "title": "Use davidnicholmd.com for your new site",
+      "detail": "Your new site is live on a free address. When you're happy with it, we'll help you point davidnicholmd.com at it — your old site keeps working until then.",
+      "status": "todo"
+    },
+    {
+      "id": "custom-code",
+      "kind": "custom-code",
+      "title": "Check special features",
+      "detail": "Your old site had add-ons (chat, booking or other widgets). See which ones you still need.",
+      "where": [],
+      "status": "todo"
+    },
+    {
+      "id": "font-licence",
+      "kind": "other",
+      "title": "Use your own font licence",
+      "detail": "Your old site used adobe-garamond-pro (from Adobe Fonts) and proxima-nova (from Adobe Fonts), which we're not allowed to copy, so the closest free fonts stand in (EB Garamond, Sofia Sans). If you have a web licence, download the font files (WOFF2) from the font service and upload them in Site Styles → Your fonts — they're stored in media/fonts/ — then choose them for your headings and text.",
+      "status": "todo"
+    }
+  ]
+}

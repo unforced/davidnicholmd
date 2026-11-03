@@ -1,0 +1,3334 @@
+{
+  "score": 20,
+  "exact": 19.95,
+  "raw": 73.43,
+  "strict": {
+    "score": 20,
+    "exact": 19.52
+  },
+  "scorer": "v4-calibrated",
+  "pages": [
+    {
+      "path": "/",
+      "original": "https://www.davidnicholmd.com/home/",
+      "imported": "/ (local preview)",
+      "viewport": 1440,
+      "score": 0,
+      "structure": 74,
+      "checkScore": 73.54166666666666,
+      "present": 0,
+      "exact": 0,
+      "raw": 71.94112329618467,
+      "checks": [
+        {
+          "area": "fonts",
+          "what": "Heading font",
+          "original": "adobe-garamond-pro",
+          "imported": "EB Garamond (close stand-in)",
+          "ok": false,
+          "credit": 0.85,
+          "fix": "Site Styles → choices.typography.heading = { family: \"adobe-garamond-pro\" } (Google Fonts), or upload it in Site Styles → Your fonts.",
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Heading 1 size",
+          "original": "32px",
+          "imported": "32px",
+          "ok": true,
+          "weight": 2
+        },
+        {
+          "area": "type",
+          "what": "Heading 3 size",
+          "original": "16px",
+          "imported": "16px",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "fonts",
+          "what": "Body font",
+          "original": "adobe-garamond-pro",
+          "imported": "EB Garamond (close stand-in)",
+          "ok": false,
+          "credit": 0.85,
+          "fix": "Site Styles → choices.typography.body = { family: \"adobe-garamond-pro\" } (Google Fonts), or upload it in Site Styles → Your fonts.",
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Body text size",
+          "original": "18px",
+          "imported": "18px",
+          "ok": true,
+          "weight": 2
+        },
+        {
+          "area": "type",
+          "what": "Buttons: present",
+          "original": "proxima-nova 18px",
+          "imported": "not found",
+          "ok": false,
+          "weight": 1
+        },
+        {
+          "area": "fonts",
+          "what": "Label font",
+          "original": "proxima-nova",
+          "imported": "Sofia Sans (close stand-in)",
+          "ok": false,
+          "credit": 0.85,
+          "fix": "Site Styles → choices.typography.label = { family: \"proxima-nova\" } (Google Fonts), or upload it in Site Styles → Your fonts.",
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Navigation size",
+          "original": "18px",
+          "imported": "18px",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Navigation letter spacing and case",
+          "original": "0.111em, uppercase",
+          "imported": "0.111em, uppercase",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Site title size",
+          "original": "20px",
+          "imported": "20px",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Site title letter spacing and case",
+          "original": "0.1em, uppercase",
+          "imported": "0.1em, uppercase",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "layout",
+          "what": "Section padding",
+          "original": "127px",
+          "imported": "100px",
+          "ok": true,
+          "weight": 1
+        }
+      ],
+      "sections": [
+        {
+          "index": 0,
+          "heading": "DAVID NICHOL MD",
+          "checks": [
+            {
+              "area": "section",
+              "what": "Present",
+              "original": "DAVID NICHOL MD",
+              "imported": "no matching section",
+              "ok": false,
+              "fix": "Bring this section across (or check it was merged into another).",
+              "weight": 4
+            }
+          ],
+          "score": 0
+        }
+      ],
+      "strict": {
+        "score": 0,
+        "exact": 0,
+        "structure": 74,
+        "checks": 73.54166666666666,
+        "present": 0,
+        "raw": 71.94112329618467
+      },
+      "visual": 0.671
+    },
+    {
+      "path": "/",
+      "original": "https://www.davidnicholmd.com/home/",
+      "imported": "/ (local preview)",
+      "viewport": 390,
+      "score": 40,
+      "structure": 75,
+      "checkScore": 74.51923076923077,
+      "present": 0.8333333333333334,
+      "exact": 40.00307677935956,
+      "raw": 74.95148075246375,
+      "checks": [
+        {
+          "area": "fonts",
+          "what": "Heading font",
+          "original": "adobe-garamond-pro",
+          "imported": "EB Garamond (close stand-in)",
+          "ok": false,
+          "credit": 0.85,
+          "fix": "Site Styles → choices.typography.heading = { family: \"adobe-garamond-pro\" } (Google Fonts), or upload it in Site Styles → Your fonts.",
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Heading 1 size",
+          "original": "30px",
+          "imported": "30.1px",
+          "ok": true,
+          "weight": 2
+        },
+        {
+          "area": "type",
+          "what": "Heading 3 size",
+          "original": "16px",
+          "imported": "16px",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "fonts",
+          "what": "Body font",
+          "original": "adobe-garamond-pro",
+          "imported": "EB Garamond (close stand-in)",
+          "ok": false,
+          "credit": 0.85,
+          "fix": "Site Styles → choices.typography.body = { family: \"adobe-garamond-pro\" } (Google Fonts), or upload it in Site Styles → Your fonts.",
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Body text size",
+          "original": "18px",
+          "imported": "18px",
+          "ok": true,
+          "weight": 2
+        },
+        {
+          "area": "fonts",
+          "what": "Label font",
+          "original": "proxima-nova",
+          "imported": "Sofia Sans (close stand-in)",
+          "ok": false,
+          "credit": 0.85,
+          "fix": "Site Styles → choices.typography.label = { family: \"proxima-nova\" } (Google Fonts), or upload it in Site Styles → Your fonts.",
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Site title size",
+          "original": "16px",
+          "imported": "16.1px",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Site title letter spacing and case",
+          "original": "0.125em, uppercase",
+          "imported": "0.1em, uppercase",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "layout",
+          "what": "Section padding",
+          "original": "26px",
+          "imported": "15.5px",
+          "ok": false,
+          "fix": "choices.layout.sectionPaddingMobile = 26",
+          "weight": 1
+        }
+      ],
+      "sections": [
+        {
+          "index": 0,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Present",
+              "original": "I see patients at my home office in Boul",
+              "imported": "no matching section",
+              "ok": false,
+              "fix": "Bring this section across (or check it was merged into another).",
+              "weight": 4
+            }
+          ],
+          "score": 0
+        },
+        {
+          "index": 1,
+          "importedIndex": 0,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "2",
+              "ok": false,
+              "fix": "Fewer columns: merge them into one stack column.",
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "516px",
+              "imported": "630px",
+              "ok": true,
+              "weight": 1
+            }
+          ],
+          "score": 33
+        },
+        {
+          "index": 2,
+          "importedIndex": 1,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Present",
+              "original": "(a picture)",
+              "imported": "with its words in section 2",
+              "ok": true,
+              "weight": 4
+            }
+          ],
+          "score": 100
+        },
+        {
+          "index": 3,
+          "heading": "LEARN MORE →",
+          "importedIndex": 1,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#ffffff",
+              "imported": "#fafafa",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "proxima-nova 16px",
+              "imported": "Sofia Sans 16px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "adobe-garamond-pro 18px",
+              "imported": "EB Garamond 18px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#1a1a1a",
+              "imported": "#202020",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "129px",
+              "imported": "1139px",
+              "ok": false,
+              "weight": 1
+            }
+          ],
+          "score": 84
+        },
+        {
+          "index": 4,
+          "importedIndex": 1,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Present",
+              "original": "(a picture)",
+              "imported": "with its words in section 2",
+              "ok": true,
+              "weight": 4
+            }
+          ],
+          "score": 100
+        },
+        {
+          "index": 5,
+          "heading": "EXPLORE YOUR OPTIONS",
+          "importedIndex": 1,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#ffffff",
+              "imported": "#fafafa",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "adobe-garamond-pro 30px",
+              "imported": "Sofia Sans 16px",
+              "ok": false,
+              "credit": 0,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "adobe-garamond-pro 18px",
+              "imported": "EB Garamond 18px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#1a1a1a",
+              "imported": "#202020",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "219px",
+              "imported": "1139px",
+              "ok": false,
+              "weight": 1
+            }
+          ],
+          "score": 67
+        }
+      ],
+      "strict": {
+        "score": 36,
+        "exact": 35.88219765848044,
+        "structure": 63,
+        "checks": 62.98076923076923,
+        "present": 0.5,
+        "raw": 66.29763459861759
+      },
+      "corrections": [
+        "Section 2: columns counted on screen only (2 → 2 counted as 1 → 2; what's off screen or inside one slideshow or map isn't a column).",
+        "Section 3 (a picture alone on a phone) is the picture of section 2, which holds it with its words.",
+        "Section 5 (a picture alone on a phone) is the picture of section 2, which holds it with its words."
+      ],
+      "visual": 0.762
+    },
+    {
+      "path": "/contact",
+      "original": "https://www.davidnicholmd.com/contact/",
+      "imported": "/contact (local preview)",
+      "viewport": 1440,
+      "score": 64,
+      "structure": 76,
+      "checkScore": 75.90909090909089,
+      "present": 1,
+      "exact": 63.85309821374361,
+      "raw": 77.80036732946414,
+      "checks": [
+        {
+          "area": "fonts",
+          "what": "Heading font",
+          "original": "proxima-nova",
+          "imported": "Sofia Sans (close stand-in)",
+          "ok": false,
+          "credit": 0.85,
+          "fix": "Site Styles → choices.typography.heading = { family: \"proxima-nova\" } (Google Fonts), or upload it in Site Styles → Your fonts.",
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Heading 2 size",
+          "original": "22px",
+          "imported": "22px",
+          "ok": true,
+          "weight": 2
+        },
+        {
+          "area": "type",
+          "what": "Heading 3 size",
+          "original": "16px",
+          "imported": "16px",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "fonts",
+          "what": "Body font",
+          "original": "adobe-garamond-pro",
+          "imported": "EB Garamond (close stand-in)",
+          "ok": false,
+          "credit": 0.85,
+          "fix": "Site Styles → choices.typography.body = { family: \"adobe-garamond-pro\" } (Google Fonts), or upload it in Site Styles → Your fonts.",
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Body text size",
+          "original": "18px",
+          "imported": "18px",
+          "ok": true,
+          "weight": 2
+        },
+        {
+          "area": "fonts",
+          "what": "Label font",
+          "original": "proxima-nova",
+          "imported": "Sofia Sans (close stand-in)",
+          "ok": false,
+          "credit": 0.85,
+          "fix": "Site Styles → choices.typography.label = { family: \"proxima-nova\" } (Google Fonts), or upload it in Site Styles → Your fonts.",
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Buttons size",
+          "original": "18px",
+          "imported": "18px",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "buttons",
+          "what": "Buttons letter spacing and case",
+          "original": "0.167em, uppercase",
+          "imported": "0.167em, uppercase",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Navigation size",
+          "original": "18px",
+          "imported": "18px",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Navigation letter spacing and case",
+          "original": "0.111em, uppercase",
+          "imported": "0.111em, uppercase",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Site title size",
+          "original": "20px",
+          "imported": "20px",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Site title letter spacing and case",
+          "original": "0.1em, uppercase",
+          "imported": "0.1em, uppercase",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "layout",
+          "what": "Section padding",
+          "original": "127px",
+          "imported": "100px",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "buttons",
+          "what": "Button corners",
+          "original": "0px",
+          "imported": "0px",
+          "ok": true,
+          "weight": 1
+        }
+      ],
+      "sections": [
+        {
+          "index": 0,
+          "heading": "DAVID NICHOL MD",
+          "importedIndex": 1,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#1f1f1f",
+              "imported": "#fafafa",
+              "ok": false,
+              "fix": "Give the section its own background color (style.background = { type: \"color\", color: \"#1f1f1f\" }).",
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "proxima-nova 20px",
+              "imported": "Sofia Sans 22px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "adobe-garamond-pro 18px",
+              "imported": "EB Garamond 18px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#1a1a1a",
+              "imported": "#202020",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "2",
+              "imported": "1",
+              "ok": false,
+              "fix": "Lay the text out in columns (a stack layout with more columns, or the text block's Columns style).",
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Image placement",
+              "original": "center, 100% wide",
+              "imported": "none",
+              "ok": false,
+              "fix": "Adjust the stack column spans (image column) or the image's side.",
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "2131px",
+              "imported": "1432px",
+              "ok": false,
+              "weight": 1
+            }
+          ],
+          "score": 40
+        }
+      ],
+      "strict": {
+        "score": 64,
+        "exact": 63.85309821374361,
+        "structure": 76,
+        "checks": 75.90909090909089,
+        "present": 1,
+        "raw": 77.80036732946414
+      },
+      "visual": 0.835
+    },
+    {
+      "path": "/contact",
+      "original": "https://www.davidnicholmd.com/contact/",
+      "imported": "/contact (local preview)",
+      "viewport": 390,
+      "score": 38,
+      "structure": 61,
+      "checkScore": 60.59322033898305,
+      "present": 0.42857142857142855,
+      "exact": 38.15063518267624,
+      "raw": 64.87110517809188,
+      "checks": [
+        {
+          "area": "fonts",
+          "what": "Heading font",
+          "original": "proxima-nova",
+          "imported": "Sofia Sans (close stand-in)",
+          "ok": false,
+          "credit": 0.85,
+          "fix": "Site Styles → choices.typography.heading = { family: \"proxima-nova\" } (Google Fonts), or upload it in Site Styles → Your fonts.",
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Heading 2 size",
+          "original": "22px",
+          "imported": "22px",
+          "ok": true,
+          "weight": 2
+        },
+        {
+          "area": "type",
+          "what": "Heading 3 size",
+          "original": "16px",
+          "imported": "16px",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "fonts",
+          "what": "Body font",
+          "original": "adobe-garamond-pro",
+          "imported": "EB Garamond (close stand-in)",
+          "ok": false,
+          "credit": 0.85,
+          "fix": "Site Styles → choices.typography.body = { family: \"adobe-garamond-pro\" } (Google Fonts), or upload it in Site Styles → Your fonts.",
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Body text size",
+          "original": "18px",
+          "imported": "18px",
+          "ok": true,
+          "weight": 2
+        },
+        {
+          "area": "fonts",
+          "what": "Label font",
+          "original": "proxima-nova",
+          "imported": "Sofia Sans (close stand-in)",
+          "ok": false,
+          "credit": 0.85,
+          "fix": "Site Styles → choices.typography.label = { family: \"proxima-nova\" } (Google Fonts), or upload it in Site Styles → Your fonts.",
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Buttons size",
+          "original": "18px",
+          "imported": "16.9px",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "buttons",
+          "what": "Buttons letter spacing and case",
+          "original": "0.167em, uppercase",
+          "imported": "0.167em, uppercase",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Site title size",
+          "original": "16px",
+          "imported": "16.1px",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Site title letter spacing and case",
+          "original": "0.125em, uppercase",
+          "imported": "0.1em, uppercase",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "layout",
+          "what": "Section padding",
+          "original": "28.5px",
+          "imported": "15.5px",
+          "ok": false,
+          "fix": "choices.layout.sectionPaddingMobile = 29",
+          "weight": 1
+        },
+        {
+          "area": "buttons",
+          "what": "Button corners",
+          "original": "0px",
+          "imported": "0px",
+          "ok": true,
+          "weight": 1
+        }
+      ],
+      "sections": [
+        {
+          "index": 0,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Present",
+              "original": "I see patients at my home office in Boul",
+              "imported": "no matching section",
+              "ok": false,
+              "fix": "Bring this section across (or check it was merged into another).",
+              "weight": 4
+            }
+          ],
+          "score": 0
+        },
+        {
+          "index": 1,
+          "importedIndex": 0,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "486px",
+              "imported": "630px",
+              "ok": true,
+              "weight": 1
+            }
+          ],
+          "score": 100
+        },
+        {
+          "index": 2,
+          "heading": "BEFORE YOUR VISIT:",
+          "importedIndex": 1,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#ffffff",
+              "imported": "#fafafa",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "proxima-nova 22px",
+              "imported": "Sofia Sans 22px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "adobe-garamond-pro 18px",
+              "imported": "EB Garamond 18px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#1a1a1a",
+              "imported": "#202020",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "503px",
+              "imported": "1303px",
+              "ok": false,
+              "weight": 1
+            }
+          ],
+          "score": 84
+        },
+        {
+          "index": 3,
+          "heading": "HOURS:",
+          "importedIndex": 1,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#ffffff",
+              "imported": "#fafafa",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "proxima-nova 16px",
+              "imported": "Sofia Sans 22px",
+              "ok": false,
+              "credit": 0,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "adobe-garamond-pro 18px",
+              "imported": "EB Garamond 18px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#1a1a1a",
+              "imported": "#202020",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "289px",
+              "imported": "1303px",
+              "ok": false,
+              "weight": 1
+            }
+          ],
+          "score": 67
+        },
+        {
+          "index": 4,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Present",
+              "original": "Name First Name (required) Last Name (re",
+              "imported": "no matching section",
+              "ok": false,
+              "fix": "Bring this section across (or check it was merged into another).",
+              "weight": 4
+            }
+          ],
+          "score": 0
+        },
+        {
+          "index": 5,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Present",
+              "original": "Email (required) Message (required)",
+              "imported": "no matching section",
+              "ok": false,
+              "fix": "Bring this section across (or check it was merged into another).",
+              "weight": 4
+            }
+          ],
+          "score": 0
+        },
+        {
+          "index": 6,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Present",
+              "original": "SUBMIT",
+              "imported": "no matching section",
+              "ok": false,
+              "fix": "Bring this section across (or check it was merged into another).",
+              "weight": 4
+            }
+          ],
+          "score": 0
+        }
+      ],
+      "strict": {
+        "score": 38,
+        "exact": 38.15063518267624,
+        "structure": 61,
+        "checks": 60.59322033898305,
+        "present": 0.42857142857142855,
+        "raw": 64.87110517809188
+      },
+      "visual": 0.777
+    },
+    {
+      "path": "/david-nichol-md",
+      "original": "https://www.davidnicholmd.com/david-nichol-md/",
+      "imported": "/david-nichol-md (local preview)",
+      "viewport": 1440,
+      "score": 0,
+      "structure": 75,
+      "checkScore": 74.6,
+      "present": 0,
+      "exact": 0,
+      "raw": 69.13332514773779,
+      "checks": [
+        {
+          "area": "fonts",
+          "what": "Heading font",
+          "original": "adobe-garamond-pro",
+          "imported": "EB Garamond (close stand-in)",
+          "ok": false,
+          "credit": 0.85,
+          "fix": "Site Styles → choices.typography.heading = { family: \"adobe-garamond-pro\" } (Google Fonts), or upload it in Site Styles → Your fonts.",
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Heading 1 size",
+          "original": "32px",
+          "imported": "32px",
+          "ok": true,
+          "weight": 2
+        },
+        {
+          "area": "fonts",
+          "what": "Body font",
+          "original": "adobe-garamond-pro",
+          "imported": "EB Garamond (close stand-in)",
+          "ok": false,
+          "credit": 0.85,
+          "fix": "Site Styles → choices.typography.body = { family: \"adobe-garamond-pro\" } (Google Fonts), or upload it in Site Styles → Your fonts.",
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Body text size",
+          "original": "18px",
+          "imported": "18px",
+          "ok": true,
+          "weight": 2
+        },
+        {
+          "area": "type",
+          "what": "Buttons: present",
+          "original": "proxima-nova 18px",
+          "imported": "not found",
+          "ok": false,
+          "weight": 1
+        },
+        {
+          "area": "fonts",
+          "what": "Label font",
+          "original": "proxima-nova",
+          "imported": "Sofia Sans (close stand-in)",
+          "ok": false,
+          "credit": 0.85,
+          "fix": "Site Styles → choices.typography.label = { family: \"proxima-nova\" } (Google Fonts), or upload it in Site Styles → Your fonts.",
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Navigation size",
+          "original": "18px",
+          "imported": "18px",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Navigation letter spacing and case",
+          "original": "0.111em, uppercase",
+          "imported": "0.111em, uppercase",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Site title size",
+          "original": "20px",
+          "imported": "20px",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Site title letter spacing and case",
+          "original": "0.1em, uppercase",
+          "imported": "0.1em, uppercase",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "layout",
+          "what": "Content width",
+          "original": "1400px",
+          "imported": "1344px",
+          "ok": true,
+          "weight": 2
+        },
+        {
+          "area": "layout",
+          "what": "Section padding",
+          "original": "127px",
+          "imported": "100px",
+          "ok": true,
+          "weight": 1
+        }
+      ],
+      "sections": [
+        {
+          "index": 0,
+          "heading": "DAVID NICHOL MD",
+          "checks": [
+            {
+              "area": "section",
+              "what": "Present",
+              "original": "DAVID NICHOL MD",
+              "imported": "no matching section",
+              "ok": false,
+              "fix": "Bring this section across (or check it was merged into another).",
+              "weight": 4
+            }
+          ],
+          "score": 0
+        }
+      ],
+      "strict": {
+        "score": 0,
+        "exact": 0,
+        "structure": 75,
+        "checks": 74.6,
+        "present": 0,
+        "raw": 69.13332514773779
+      },
+      "visual": 0.527
+    },
+    {
+      "path": "/david-nichol-md",
+      "original": "https://www.davidnicholmd.com/david-nichol-md/",
+      "imported": "/david-nichol-md (local preview)",
+      "viewport": 390,
+      "score": 38,
+      "structure": 71,
+      "checkScore": 71.19565217391305,
+      "present": 0.6,
+      "exact": 38.34293987818028,
+      "raw": 72.4035966089761,
+      "checks": [
+        {
+          "area": "fonts",
+          "what": "Heading font",
+          "original": "adobe-garamond-pro",
+          "imported": "EB Garamond (close stand-in)",
+          "ok": false,
+          "credit": 0.85,
+          "fix": "Site Styles → choices.typography.heading = { family: \"adobe-garamond-pro\" } (Google Fonts), or upload it in Site Styles → Your fonts.",
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Heading 1 size",
+          "original": "30px",
+          "imported": "30.1px",
+          "ok": true,
+          "weight": 2
+        },
+        {
+          "area": "fonts",
+          "what": "Body font",
+          "original": "adobe-garamond-pro",
+          "imported": "EB Garamond (close stand-in)",
+          "ok": false,
+          "credit": 0.85,
+          "fix": "Site Styles → choices.typography.body = { family: \"adobe-garamond-pro\" } (Google Fonts), or upload it in Site Styles → Your fonts.",
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Body text size",
+          "original": "18px",
+          "imported": "18px",
+          "ok": true,
+          "weight": 2
+        },
+        {
+          "area": "fonts",
+          "what": "Label font",
+          "original": "proxima-nova",
+          "imported": "Sofia Sans (close stand-in)",
+          "ok": false,
+          "credit": 0.85,
+          "fix": "Site Styles → choices.typography.label = { family: \"proxima-nova\" } (Google Fonts), or upload it in Site Styles → Your fonts.",
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Site title size",
+          "original": "16px",
+          "imported": "16.1px",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Site title letter spacing and case",
+          "original": "0.125em, uppercase",
+          "imported": "0.1em, uppercase",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "layout",
+          "what": "Section padding",
+          "original": "15px",
+          "imported": "15.5px",
+          "ok": true,
+          "weight": 1
+        }
+      ],
+      "sections": [
+        {
+          "index": 0,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Present",
+              "original": "I see patients at my home office in Boul",
+              "imported": "no matching section",
+              "ok": false,
+              "fix": "Bring this section across (or check it was merged into another).",
+              "weight": 4
+            }
+          ],
+          "score": 0
+        },
+        {
+          "index": 1,
+          "importedIndex": 0,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Italic lines",
+              "original": "1",
+              "imported": "0",
+              "ok": false,
+              "fix": "Set the closing/pull line in italics (lead style).",
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "537px",
+              "imported": "631px",
+              "ok": true,
+              "weight": 1
+            }
+          ],
+          "score": 75
+        },
+        {
+          "index": 2,
+          "heading": "Dr. David Nichol",
+          "importedIndex": 1,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#ffffff",
+              "imported": "#fafafa",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "adobe-garamond-pro 30px",
+              "imported": "EB Garamond 30.1px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "adobe-garamond-pro 18px",
+              "imported": "EB Garamond 18px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#1a1a1a",
+              "imported": "#202020",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "203px",
+              "imported": "1237px",
+              "ok": false,
+              "weight": 1
+            }
+          ],
+          "score": 84
+        },
+        {
+          "index": 3,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Present",
+              "original": "",
+              "imported": "no matching section",
+              "ok": false,
+              "fix": "Bring this section across (or check it was merged into another).",
+              "weight": 4
+            }
+          ],
+          "score": 0
+        },
+        {
+          "index": 4,
+          "importedIndex": 1,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#ffffff",
+              "imported": "#fafafa",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "adobe-garamond-pro 18px",
+              "imported": "EB Garamond 18px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#1a1a1a",
+              "imported": "#202020",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "504px",
+              "imported": "1237px",
+              "ok": false,
+              "weight": 1
+            }
+          ],
+          "score": 84
+        }
+      ],
+      "strict": {
+        "score": 37,
+        "exact": 36.790144847124374,
+        "structure": 67,
+        "checks": 66.84782608695652,
+        "present": 0.6,
+        "raw": 69.14272704375871
+      },
+      "corrections": [
+        "Section 2: columns counted on screen only (2 → 1 counted as 1 → 1; what's off screen or inside one slideshow or map isn't a column)."
+      ],
+      "visual": 0.76
+    },
+    {
+      "path": "/health-information",
+      "original": "https://www.davidnicholmd.com/health-information/",
+      "imported": "/health-information (local preview)",
+      "viewport": 1440,
+      "score": 51,
+      "structure": 79,
+      "checkScore": 78.5135135135135,
+      "present": 1,
+      "exact": 51.47874044656031,
+      "raw": 77.75800797818096,
+      "checks": [
+        {
+          "area": "fonts",
+          "what": "Heading font",
+          "original": "adobe-garamond-pro",
+          "imported": "EB Garamond (close stand-in)",
+          "ok": false,
+          "credit": 0.85,
+          "fix": "Site Styles → choices.typography.heading = { family: \"adobe-garamond-pro\" } (Google Fonts), or upload it in Site Styles → Your fonts.",
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Heading 1 size",
+          "original": "32px",
+          "imported": "32px",
+          "ok": true,
+          "weight": 2
+        },
+        {
+          "area": "type",
+          "what": "Heading 2 size",
+          "original": "22px",
+          "imported": "22px",
+          "ok": true,
+          "weight": 2
+        },
+        {
+          "area": "type",
+          "what": "Heading 3 size",
+          "original": "16px",
+          "imported": "16px",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "fonts",
+          "what": "Body font",
+          "original": "adobe-garamond-pro",
+          "imported": "EB Garamond (close stand-in)",
+          "ok": false,
+          "credit": 0.85,
+          "fix": "Site Styles → choices.typography.body = { family: \"adobe-garamond-pro\" } (Google Fonts), or upload it in Site Styles → Your fonts.",
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Body text size",
+          "original": "18px",
+          "imported": "18px",
+          "ok": true,
+          "weight": 2
+        },
+        {
+          "area": "fonts",
+          "what": "Label font",
+          "original": "proxima-nova",
+          "imported": "Sofia Sans (close stand-in)",
+          "ok": false,
+          "credit": 0.85,
+          "fix": "Site Styles → choices.typography.label = { family: \"proxima-nova\" } (Google Fonts), or upload it in Site Styles → Your fonts.",
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Buttons size",
+          "original": "18px",
+          "imported": "18px",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "buttons",
+          "what": "Buttons letter spacing and case",
+          "original": "0.111em, uppercase",
+          "imported": "0.111em, uppercase",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Navigation size",
+          "original": "18px",
+          "imported": "18px",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Navigation letter spacing and case",
+          "original": "0.111em, uppercase",
+          "imported": "0.111em, uppercase",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Site title size",
+          "original": "20px",
+          "imported": "20px",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Site title letter spacing and case",
+          "original": "0.1em, uppercase",
+          "imported": "0.1em, uppercase",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "layout",
+          "what": "Content width",
+          "original": "1400px",
+          "imported": "1344px",
+          "ok": true,
+          "weight": 2
+        },
+        {
+          "area": "layout",
+          "what": "Section padding",
+          "original": "127px",
+          "imported": "200px",
+          "ok": false,
+          "fix": "choices.layout.sectionPadding = 127",
+          "weight": 1
+        },
+        {
+          "area": "buttons",
+          "what": "Button corners",
+          "original": "300px",
+          "imported": "0px",
+          "ok": false,
+          "fix": "choices.shape = \"round\"",
+          "weight": 1
+        }
+      ],
+      "sections": [
+        {
+          "index": 0,
+          "heading": "DAVID NICHOL MD",
+          "importedIndex": 1,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#1f1f1f",
+              "imported": "#fafafa",
+              "ok": false,
+              "fix": "Give the section its own background color (style.background = { type: \"color\", color: \"#1f1f1f\" }).",
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "proxima-nova 20px",
+              "imported": "Sofia Sans 22px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "adobe-garamond-pro 18px",
+              "imported": "EB Garamond 18px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#1a1a1a",
+              "imported": "#202020",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "2",
+              "imported": "1",
+              "ok": false,
+              "fix": "Lay the text out in columns (a stack layout with more columns, or the text block's Columns style).",
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Italic lines",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "5689px",
+              "imported": "4795px",
+              "ok": true,
+              "weight": 1
+            }
+          ],
+          "score": 58
+        }
+      ],
+      "strict": {
+        "score": 51,
+        "exact": 51.47874044656031,
+        "structure": 79,
+        "checks": 78.5135135135135,
+        "present": 1,
+        "raw": 77.75800797818096
+      },
+      "visual": 0.755
+    },
+    {
+      "path": "/health-information",
+      "original": "https://www.davidnicholmd.com/health-information/",
+      "imported": "/health-information (local preview)",
+      "viewport": 390,
+      "score": 45,
+      "structure": 72,
+      "checkScore": 71.83333333333336,
+      "present": 0.9333333333333333,
+      "exact": 45.46632900807417,
+      "raw": 73.68634949538645,
+      "checks": [
+        {
+          "area": "fonts",
+          "what": "Heading font",
+          "original": "adobe-garamond-pro",
+          "imported": "EB Garamond (close stand-in)",
+          "ok": false,
+          "credit": 0.85,
+          "fix": "Site Styles → choices.typography.heading = { family: \"adobe-garamond-pro\" } (Google Fonts), or upload it in Site Styles → Your fonts.",
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Heading 1 size",
+          "original": "30px",
+          "imported": "30.1px",
+          "ok": true,
+          "weight": 2
+        },
+        {
+          "area": "type",
+          "what": "Heading 2 size",
+          "original": "22px",
+          "imported": "22px",
+          "ok": true,
+          "weight": 2
+        },
+        {
+          "area": "type",
+          "what": "Heading 3 size",
+          "original": "16px",
+          "imported": "16px",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "fonts",
+          "what": "Body font",
+          "original": "adobe-garamond-pro",
+          "imported": "EB Garamond (close stand-in)",
+          "ok": false,
+          "credit": 0.85,
+          "fix": "Site Styles → choices.typography.body = { family: \"adobe-garamond-pro\" } (Google Fonts), or upload it in Site Styles → Your fonts.",
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Body text size",
+          "original": "18px",
+          "imported": "18px",
+          "ok": true,
+          "weight": 2
+        },
+        {
+          "area": "fonts",
+          "what": "Label font",
+          "original": "proxima-nova",
+          "imported": "Sofia Sans (close stand-in)",
+          "ok": false,
+          "credit": 0.85,
+          "fix": "Site Styles → choices.typography.label = { family: \"proxima-nova\" } (Google Fonts), or upload it in Site Styles → Your fonts.",
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Site title size",
+          "original": "16px",
+          "imported": "16.1px",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Site title letter spacing and case",
+          "original": "0.125em, uppercase",
+          "imported": "0.1em, uppercase",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "layout",
+          "what": "Section padding",
+          "original": "9px",
+          "imported": "30.5px",
+          "ok": false,
+          "fix": "choices.layout.sectionPaddingMobile = 9",
+          "weight": 1
+        }
+      ],
+      "sections": [
+        {
+          "index": 0,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Present",
+              "original": "I see patients at my home office in Boul",
+              "imported": "no matching section",
+              "ok": false,
+              "fix": "Bring this section across (or check it was merged into another).",
+              "weight": 4
+            }
+          ],
+          "score": 0
+        },
+        {
+          "index": 1,
+          "heading": "Health information",
+          "importedIndex": 0,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#ffffff",
+              "imported": "#fafafa",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "adobe-garamond-pro 30px",
+              "imported": "EB Garamond 30.1px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "610px",
+              "imported": "202px",
+              "ok": false,
+              "weight": 1
+            }
+          ],
+          "score": 81
+        },
+        {
+          "index": 2,
+          "importedIndex": 1,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#ffffff",
+              "imported": "#fafafa",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "adobe-garamond-pro 18px",
+              "imported": "EB Garamond 18px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#1a1a1a",
+              "imported": "#202020",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "450px",
+              "imported": "6905px",
+              "ok": false,
+              "weight": 1
+            }
+          ],
+          "score": 84
+        },
+        {
+          "index": 3,
+          "heading": "GENERAL DIET TIPS",
+          "importedIndex": 1,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#ffffff",
+              "imported": "#fafafa",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "proxima-nova 16px",
+              "imported": "Sofia Sans 22px",
+              "ok": false,
+              "credit": 0,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "adobe-garamond-pro 18px",
+              "imported": "EB Garamond 18px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#1a1a1a",
+              "imported": "#202020",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "321px",
+              "imported": "6905px",
+              "ok": false,
+              "weight": 1
+            }
+          ],
+          "score": 67
+        },
+        {
+          "index": 4,
+          "importedIndex": 1,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#ffffff",
+              "imported": "#fafafa",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "adobe-garamond-pro 18px",
+              "imported": "EB Garamond 18px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#1a1a1a",
+              "imported": "#202020",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "477px",
+              "imported": "6905px",
+              "ok": false,
+              "weight": 1
+            }
+          ],
+          "score": 84
+        },
+        {
+          "index": 5,
+          "heading": "CARBOHYDRATES",
+          "importedIndex": 1,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#ffffff",
+              "imported": "#fafafa",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "proxima-nova 16px",
+              "imported": "Sofia Sans 22px",
+              "ok": false,
+              "credit": 0,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "adobe-garamond-pro 18px",
+              "imported": "EB Garamond 18px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#1a1a1a",
+              "imported": "#202020",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "858px",
+              "imported": "6905px",
+              "ok": false,
+              "weight": 1
+            }
+          ],
+          "score": 67
+        },
+        {
+          "index": 6,
+          "heading": "FAT",
+          "importedIndex": 1,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#ffffff",
+              "imported": "#fafafa",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "proxima-nova 16px",
+              "imported": "Sofia Sans 22px",
+              "ok": false,
+              "credit": 0,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "adobe-garamond-pro 18px",
+              "imported": "EB Garamond 18px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#1a1a1a",
+              "imported": "#202020",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "1154px",
+              "imported": "6905px",
+              "ok": false,
+              "weight": 1
+            }
+          ],
+          "score": 67
+        },
+        {
+          "index": 7,
+          "heading": "PROTEIN",
+          "importedIndex": 1,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#ffffff",
+              "imported": "#fafafa",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "proxima-nova 16px",
+              "imported": "Sofia Sans 22px",
+              "ok": false,
+              "credit": 0,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "adobe-garamond-pro 18px",
+              "imported": "EB Garamond 18px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#1a1a1a",
+              "imported": "#202020",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "401px",
+              "imported": "6905px",
+              "ok": false,
+              "weight": 1
+            }
+          ],
+          "score": 67
+        },
+        {
+          "index": 8,
+          "heading": "FIBER",
+          "importedIndex": 1,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#ffffff",
+              "imported": "#fafafa",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "proxima-nova 16px",
+              "imported": "Sofia Sans 22px",
+              "ok": false,
+              "credit": 0,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "adobe-garamond-pro 18px",
+              "imported": "EB Garamond 18px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#1a1a1a",
+              "imported": "#202020",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "305px",
+              "imported": "6905px",
+              "ok": false,
+              "weight": 1
+            }
+          ],
+          "score": 67
+        },
+        {
+          "index": 9,
+          "heading": "PHYTONUTRIENTS",
+          "importedIndex": 1,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#ffffff",
+              "imported": "#fafafa",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "proxima-nova 16px",
+              "imported": "Sofia Sans 22px",
+              "ok": false,
+              "credit": 0,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "adobe-garamond-pro 18px",
+              "imported": "EB Garamond 18px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#1a1a1a",
+              "imported": "#202020",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "791px",
+              "imported": "6905px",
+              "ok": false,
+              "weight": 1
+            }
+          ],
+          "score": 67
+        },
+        {
+          "index": 10,
+          "heading": "VITAMINS AND MINERALS",
+          "importedIndex": 1,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#ffffff",
+              "imported": "#fafafa",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "proxima-nova 16px",
+              "imported": "Sofia Sans 22px",
+              "ok": false,
+              "credit": 0,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "adobe-garamond-pro 18px",
+              "imported": "EB Garamond 18px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#1a1a1a",
+              "imported": "#202020",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "181px",
+              "imported": "6905px",
+              "ok": false,
+              "weight": 1
+            }
+          ],
+          "score": 67
+        },
+        {
+          "index": 11,
+          "importedIndex": 1,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#ffffff",
+              "imported": "#fafafa",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "adobe-garamond-pro 18px",
+              "imported": "EB Garamond 18px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#1a1a1a",
+              "imported": "#202020",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "765px",
+              "imported": "6905px",
+              "ok": false,
+              "weight": 1
+            }
+          ],
+          "score": 84
+        },
+        {
+          "index": 12,
+          "heading": "OTHER DIETARY SUPPLEMENTS",
+          "importedIndex": 1,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#ffffff",
+              "imported": "#fafafa",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "proxima-nova 16px",
+              "imported": "Sofia Sans 22px",
+              "ok": false,
+              "credit": 0,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "adobe-garamond-pro 18px",
+              "imported": "EB Garamond 18px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#1a1a1a",
+              "imported": "#202020",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "620px",
+              "imported": "6905px",
+              "ok": false,
+              "weight": 1
+            }
+          ],
+          "score": 67
+        },
+        {
+          "index": 13,
+          "heading": "WATER",
+          "importedIndex": 1,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#ffffff",
+              "imported": "#fafafa",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "proxima-nova 16px",
+              "imported": "Sofia Sans 22px",
+              "ok": false,
+              "credit": 0,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "adobe-garamond-pro 18px",
+              "imported": "EB Garamond 18px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#1a1a1a",
+              "imported": "#202020",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Italic lines",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "552px",
+              "imported": "6905px",
+              "ok": false,
+              "weight": 1
+            }
+          ],
+          "score": 70
+        },
+        {
+          "index": 14,
+          "importedIndex": 3,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#ffffff",
+              "imported": "#fafafa",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "230px",
+              "imported": "440px",
+              "ok": false,
+              "weight": 1
+            }
+          ],
+          "score": 80
+        }
+      ],
+      "strict": {
+        "score": 45,
+        "exact": 45.46632900807417,
+        "structure": 72,
+        "checks": 71.83333333333336,
+        "present": 0.9333333333333333,
+        "raw": 73.68634949538645
+      },
+      "visual": 0.792
+    },
+    {
+      "path": "/links",
+      "original": "https://www.davidnicholmd.com/links/",
+      "imported": "/links (local preview)",
+      "viewport": 1440,
+      "score": 46,
+      "structure": 71,
+      "checkScore": 70.75757575757575,
+      "present": 1,
+      "exact": 46.04821130080906,
+      "raw": 71.54197195486162,
+      "checks": [
+        {
+          "area": "fonts",
+          "what": "Heading font",
+          "original": "adobe-garamond-pro",
+          "imported": "EB Garamond (close stand-in)",
+          "ok": false,
+          "credit": 0.85,
+          "fix": "Site Styles → choices.typography.heading = { family: \"adobe-garamond-pro\" } (Google Fonts), or upload it in Site Styles → Your fonts.",
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Heading 1 size",
+          "original": "32px",
+          "imported": "32px",
+          "ok": true,
+          "weight": 2
+        },
+        {
+          "area": "fonts",
+          "what": "Body font",
+          "original": "adobe-garamond-pro",
+          "imported": "EB Garamond (close stand-in)",
+          "ok": false,
+          "credit": 0.85,
+          "fix": "Site Styles → choices.typography.body = { family: \"adobe-garamond-pro\" } (Google Fonts), or upload it in Site Styles → Your fonts.",
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Body text size",
+          "original": "18px",
+          "imported": "18px",
+          "ok": true,
+          "weight": 2
+        },
+        {
+          "area": "fonts",
+          "what": "Label font",
+          "original": "proxima-nova",
+          "imported": "Sofia Sans (close stand-in)",
+          "ok": false,
+          "credit": 0.85,
+          "fix": "Site Styles → choices.typography.label = { family: \"proxima-nova\" } (Google Fonts), or upload it in Site Styles → Your fonts.",
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Buttons size",
+          "original": "18px",
+          "imported": "18px",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "buttons",
+          "what": "Buttons letter spacing and case",
+          "original": "0.111em, uppercase",
+          "imported": "0.111em, uppercase",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Navigation size",
+          "original": "18px",
+          "imported": "18px",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Navigation letter spacing and case",
+          "original": "0.111em, uppercase",
+          "imported": "0.111em, uppercase",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Site title size",
+          "original": "20px",
+          "imported": "20px",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Site title letter spacing and case",
+          "original": "0.1em, uppercase",
+          "imported": "0.1em, uppercase",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "layout",
+          "what": "Content width",
+          "original": "1400px",
+          "imported": "1344px",
+          "ok": true,
+          "weight": 2
+        },
+        {
+          "area": "layout",
+          "what": "Section padding",
+          "original": "127px",
+          "imported": "276px",
+          "ok": false,
+          "fix": "choices.layout.sectionPadding = 127",
+          "weight": 1
+        },
+        {
+          "area": "buttons",
+          "what": "Button corners",
+          "original": "300px",
+          "imported": "0px",
+          "ok": false,
+          "fix": "choices.shape = \"round\"",
+          "weight": 1
+        }
+      ],
+      "sections": [
+        {
+          "index": 0,
+          "heading": "DAVID NICHOL MD",
+          "importedIndex": 0,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#1f1f1f",
+              "imported": "#fafafa",
+              "ok": false,
+              "fix": "Give the section its own background color (style.background = { type: \"color\", color: \"#1f1f1f\" }).",
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "proxima-nova 20px",
+              "imported": "EB Garamond 32px",
+              "ok": false,
+              "credit": 0,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "adobe-garamond-pro 18px",
+              "imported": "EB Garamond 18px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#1a1a1a",
+              "imported": "#202020",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "2",
+              "imported": "1",
+              "ok": false,
+              "fix": "Lay the text out in columns (a stack layout with more columns, or the text block's Columns style).",
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "1064px",
+              "imported": "771px",
+              "ok": true,
+              "weight": 1
+            }
+          ],
+          "score": 37
+        }
+      ],
+      "strict": {
+        "score": 46,
+        "exact": 46.04821130080906,
+        "structure": 71,
+        "checks": 70.75757575757575,
+        "present": 1,
+        "raw": 71.54197195486162
+      },
+      "visual": 0.739
+    },
+    {
+      "path": "/links",
+      "original": "https://www.davidnicholmd.com/links/",
+      "imported": "/links (local preview)",
+      "viewport": 390,
+      "score": 24,
+      "structure": 80,
+      "checkScore": 80.16666666666666,
+      "present": 0.5,
+      "exact": 24.441669934354536,
+      "raw": 77.13625038123024,
+      "checks": [
+        {
+          "area": "fonts",
+          "what": "Heading font",
+          "original": "adobe-garamond-pro",
+          "imported": "EB Garamond (close stand-in)",
+          "ok": false,
+          "credit": 0.85,
+          "fix": "Site Styles → choices.typography.heading = { family: \"adobe-garamond-pro\" } (Google Fonts), or upload it in Site Styles → Your fonts.",
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Heading 1 size",
+          "original": "30px",
+          "imported": "30.1px",
+          "ok": true,
+          "weight": 2
+        },
+        {
+          "area": "fonts",
+          "what": "Body font",
+          "original": "adobe-garamond-pro",
+          "imported": "EB Garamond (close stand-in)",
+          "ok": false,
+          "credit": 0.85,
+          "fix": "Site Styles → choices.typography.body = { family: \"adobe-garamond-pro\" } (Google Fonts), or upload it in Site Styles → Your fonts.",
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Body text size",
+          "original": "18px",
+          "imported": "18px",
+          "ok": true,
+          "weight": 2
+        },
+        {
+          "area": "fonts",
+          "what": "Label font",
+          "original": "proxima-nova",
+          "imported": "Sofia Sans (close stand-in)",
+          "ok": false,
+          "credit": 0.85,
+          "fix": "Site Styles → choices.typography.label = { family: \"proxima-nova\" } (Google Fonts), or upload it in Site Styles → Your fonts.",
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Site title size",
+          "original": "16px",
+          "imported": "16.1px",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Site title letter spacing and case",
+          "original": "0.125em, uppercase",
+          "imported": "0.1em, uppercase",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "layout",
+          "what": "Section padding",
+          "original": "80px",
+          "imported": "99px",
+          "ok": true,
+          "weight": 1
+        }
+      ],
+      "sections": [
+        {
+          "index": 0,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Present",
+              "original": "I see patients at my home office in Boul",
+              "imported": "no matching section",
+              "ok": false,
+              "fix": "Bring this section across (or check it was merged into another).",
+              "weight": 4
+            }
+          ],
+          "score": 0
+        },
+        {
+          "index": 1,
+          "heading": "Important websites",
+          "importedIndex": 0,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#ffffff",
+              "imported": "#fafafa",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "adobe-garamond-pro 30px",
+              "imported": "EB Garamond 30.1px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "adobe-garamond-pro 18px",
+              "imported": "EB Garamond 18px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#1a1a1a",
+              "imported": "#202020",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "421px",
+              "imported": "480px",
+              "ok": true,
+              "weight": 1
+            }
+          ],
+          "score": 94
+        }
+      ],
+      "strict": {
+        "score": 24,
+        "exact": 24.441669934354536,
+        "structure": 80,
+        "checks": 80.16666666666666,
+        "present": 0.5,
+        "raw": 77.13625038123024
+      },
+      "visual": 0.68
+    },
+    {
+      "path": "/mental-health-information",
+      "original": "https://www.davidnicholmd.com/mental-health-information/",
+      "imported": "/mental-health-information (local preview)",
+      "viewport": 1440,
+      "score": 41,
+      "structure": 74,
+      "checkScore": 74.42857142857142,
+      "present": 1,
+      "exact": 41.34344505648704,
+      "raw": 73.39284328908529,
+      "checks": [
+        {
+          "area": "fonts",
+          "what": "Heading font",
+          "original": "adobe-garamond-pro",
+          "imported": "EB Garamond (close stand-in)",
+          "ok": false,
+          "credit": 0.85,
+          "fix": "Site Styles → choices.typography.heading = { family: \"adobe-garamond-pro\" } (Google Fonts), or upload it in Site Styles → Your fonts.",
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Heading 1 size",
+          "original": "32px",
+          "imported": "32px",
+          "ok": true,
+          "weight": 2
+        },
+        {
+          "area": "type",
+          "what": "Heading 2 size",
+          "original": "22px",
+          "imported": "22px",
+          "ok": true,
+          "weight": 2
+        },
+        {
+          "area": "fonts",
+          "what": "Body font",
+          "original": "adobe-garamond-pro",
+          "imported": "EB Garamond (close stand-in)",
+          "ok": false,
+          "credit": 0.85,
+          "fix": "Site Styles → choices.typography.body = { family: \"adobe-garamond-pro\" } (Google Fonts), or upload it in Site Styles → Your fonts.",
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Body text size",
+          "original": "18px",
+          "imported": "18px",
+          "ok": true,
+          "weight": 2
+        },
+        {
+          "area": "fonts",
+          "what": "Label font",
+          "original": "proxima-nova",
+          "imported": "Sofia Sans (close stand-in)",
+          "ok": false,
+          "credit": 0.85,
+          "fix": "Site Styles → choices.typography.label = { family: \"proxima-nova\" } (Google Fonts), or upload it in Site Styles → Your fonts.",
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Buttons size",
+          "original": "18px",
+          "imported": "18px",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "buttons",
+          "what": "Buttons letter spacing and case",
+          "original": "0.111em, uppercase",
+          "imported": "0.111em, uppercase",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Navigation size",
+          "original": "18px",
+          "imported": "18px",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Navigation letter spacing and case",
+          "original": "0.111em, uppercase",
+          "imported": "0.111em, uppercase",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Site title size",
+          "original": "20px",
+          "imported": "20px",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Site title letter spacing and case",
+          "original": "0.1em, uppercase",
+          "imported": "0.1em, uppercase",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "layout",
+          "what": "Content width",
+          "original": "1400px",
+          "imported": "1344px",
+          "ok": true,
+          "weight": 2
+        },
+        {
+          "area": "layout",
+          "what": "Section padding",
+          "original": "127px",
+          "imported": "200px",
+          "ok": false,
+          "fix": "choices.layout.sectionPadding = 127",
+          "weight": 1
+        },
+        {
+          "area": "buttons",
+          "what": "Button corners",
+          "original": "300px",
+          "imported": "0px",
+          "ok": false,
+          "fix": "choices.shape = \"round\"",
+          "weight": 1
+        }
+      ],
+      "sections": [
+        {
+          "index": 0,
+          "heading": "DAVID NICHOL MD",
+          "importedIndex": 1,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#1f1f1f",
+              "imported": "#fafafa",
+              "ok": false,
+              "fix": "Give the section its own background color (style.background = { type: \"color\", color: \"#1f1f1f\" }).",
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "proxima-nova 20px",
+              "imported": "Sofia Sans 22px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "adobe-garamond-pro 18px",
+              "imported": "EB Garamond 18px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#1a1a1a",
+              "imported": "#202020",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "2",
+              "imported": "1",
+              "ok": false,
+              "fix": "Lay the text out in columns (a stack layout with more columns, or the text block's Columns style).",
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "1848px",
+              "imported": "916px",
+              "ok": false,
+              "weight": 1
+            }
+          ],
+          "score": 44
+        }
+      ],
+      "strict": {
+        "score": 41,
+        "exact": 41.34344505648704,
+        "structure": 74,
+        "checks": 74.42857142857142,
+        "present": 1,
+        "raw": 73.39284328908529
+      },
+      "visual": 0.703
+    },
+    {
+      "path": "/mental-health-information",
+      "original": "https://www.davidnicholmd.com/mental-health-information/",
+      "imported": "/mental-health-information (local preview)",
+      "viewport": 390,
+      "score": 41,
+      "structure": 77,
+      "checkScore": 76.70454545454545,
+      "present": 0.75,
+      "exact": 40.717611771191805,
+      "raw": 76.58277440360874,
+      "checks": [
+        {
+          "area": "fonts",
+          "what": "Heading font",
+          "original": "adobe-garamond-pro",
+          "imported": "EB Garamond (close stand-in)",
+          "ok": false,
+          "credit": 0.85,
+          "fix": "Site Styles → choices.typography.heading = { family: \"adobe-garamond-pro\" } (Google Fonts), or upload it in Site Styles → Your fonts.",
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Heading 1 size",
+          "original": "30px",
+          "imported": "30.1px",
+          "ok": true,
+          "weight": 2
+        },
+        {
+          "area": "type",
+          "what": "Heading 2 size",
+          "original": "22px",
+          "imported": "22px",
+          "ok": true,
+          "weight": 2
+        },
+        {
+          "area": "fonts",
+          "what": "Body font",
+          "original": "adobe-garamond-pro",
+          "imported": "EB Garamond (close stand-in)",
+          "ok": false,
+          "credit": 0.85,
+          "fix": "Site Styles → choices.typography.body = { family: \"adobe-garamond-pro\" } (Google Fonts), or upload it in Site Styles → Your fonts.",
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Body text size",
+          "original": "18px",
+          "imported": "18px",
+          "ok": true,
+          "weight": 2
+        },
+        {
+          "area": "fonts",
+          "what": "Label font",
+          "original": "proxima-nova",
+          "imported": "Sofia Sans (close stand-in)",
+          "ok": false,
+          "credit": 0.85,
+          "fix": "Site Styles → choices.typography.label = { family: \"proxima-nova\" } (Google Fonts), or upload it in Site Styles → Your fonts.",
+          "weight": 3
+        },
+        {
+          "area": "type",
+          "what": "Site title size",
+          "original": "16px",
+          "imported": "16.1px",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "type",
+          "what": "Site title letter spacing and case",
+          "original": "0.125em, uppercase",
+          "imported": "0.1em, uppercase",
+          "ok": true,
+          "weight": 1
+        },
+        {
+          "area": "layout",
+          "what": "Section padding",
+          "original": "80px",
+          "imported": "30.5px",
+          "ok": false,
+          "fix": "choices.layout.sectionPaddingMobile = 80",
+          "weight": 1
+        }
+      ],
+      "sections": [
+        {
+          "index": 0,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Present",
+              "original": "I see patients at my home office in Boul",
+              "imported": "no matching section",
+              "ok": false,
+              "fix": "Bring this section across (or check it was merged into another).",
+              "weight": 4
+            }
+          ],
+          "score": 0
+        },
+        {
+          "index": 1,
+          "heading": "Mental Health Information",
+          "importedIndex": 0,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#ffffff",
+              "imported": "#fafafa",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "adobe-garamond-pro 30px",
+              "imported": "EB Garamond 30.1px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "725px",
+              "imported": "202px",
+              "ok": false,
+              "weight": 1
+            }
+          ],
+          "score": 81
+        },
+        {
+          "index": 2,
+          "importedIndex": 1,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#ffffff",
+              "imported": "#fafafa",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "259px",
+              "imported": "952px",
+              "ok": false,
+              "weight": 1
+            }
+          ],
+          "score": 80
+        },
+        {
+          "index": 3,
+          "heading": "COGNITIVE FUNCTION TEST",
+          "importedIndex": 2,
+          "checks": [
+            {
+              "area": "section",
+              "what": "Background",
+              "original": "#ffffff",
+              "imported": "#fafafa",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Heading",
+              "original": "proxima-nova 22px",
+              "imported": "Sofia Sans 22px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text",
+              "original": "adobe-garamond-pro 18px",
+              "imported": "EB Garamond 18px",
+              "ok": false,
+              "credit": 0.85,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Text color",
+              "original": "#1a1a1a",
+              "imported": "#202020",
+              "ok": true,
+              "weight": 1
+            },
+            {
+              "area": "section",
+              "what": "Columns",
+              "original": "1",
+              "imported": "1",
+              "ok": true,
+              "weight": 2
+            },
+            {
+              "area": "section",
+              "what": "Height",
+              "original": "417px",
+              "imported": "189px",
+              "ok": false,
+              "weight": 1
+            }
+          ],
+          "score": 84
+        }
+      ],
+      "strict": {
+        "score": 41,
+        "exact": 40.717611771191805,
+        "structure": 77,
+        "checks": 76.70454545454545,
+        "present": 0.75,
+        "raw": 76.58277440360874
+      },
+      "visual": 0.762
+    }
+  ]
+}

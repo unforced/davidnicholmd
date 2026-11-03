@@ -1,0 +1,24 @@
+{
+  "kind": "blog",
+  "label": "Articles & Blog",
+  "list": {
+    "layout": "cards",
+    "pageSize": 12,
+    "sort": "date-desc"
+  },
+  "itemLabel": "Post",
+  "itemPage": {
+    "layout": "article",
+    "showDate": true,
+    "showAuthor": true,
+    "showRelated": true
+  },
+  "taxonomies": {
+    "tags": true
+  },
+  "feed": {
+    "enabled": true,
+    "title": "Articles & Blog"
+  },
+  "slugPattern": "{title}"
+}

@@ -1,0 +1,289 @@
+{
+  "id": "pg_zwm62yjdrn",
+  "title": "Contact",
+  "slug": "contact",
+  "seo": {
+    "title": "Contact Me",
+    "description": "My integrative approach includes various forms of psychotherapy, medication, supplements, exercise, and meditation. Please feel free to contact me with any inquiries or questions.",
+    "image": "media/2026/11/davidnicholheadshot-k94a.webp"
+  },
+  "sections": [
+    {
+      "id": "sec_nzw9yyk07f",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        },
+        "width": "narrow"
+      },
+      "style": {
+        "colorTheme": "dark",
+        "padding": {
+          "d": "2xl",
+          "m": "xl"
+        },
+        "background": {
+          "type": "image",
+          "src": "media/2026/11/dsc03071-e3kg.webp",
+          "overlay": {
+            "color": "#000000",
+            "opacity": 0.45
+          }
+        },
+        "minHeight": {
+          "d": "88vh",
+          "m": "70svh"
+        }
+      },
+      "blocks": [
+        {
+          "id": "blk_tdss8f4m20",
+          "type": "heading",
+          "v": 1,
+          "fields": {
+            "text": "Contact",
+            "level": "h1",
+            "size": "display"
+          },
+          "variant": "plain",
+          "style": {
+            "align": {
+              "d": "center"
+            }
+          }
+        }
+      ],
+      "preset": "hero/full-bleed-photo@1"
+    },
+    {
+      "id": "sec_9gs5max51q",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        }
+      },
+      "style": {
+        "colorTheme": "light"
+      },
+      "blocks": [
+        {
+          "id": "blk_2zt8x9mnwz",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 2
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Before your visit:"
+                    }
+                  ]
+                },
+                {
+                  "type": "bulletList",
+                  "content": [
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "My fee is $300 for a 50-minute session or $150 for a 30-minute session. I accept checks, cash, or Visa/Mastercard. I do not accept insurance, Medicare, or Medicaid. I can provide you with a statement to submit for reimbursement to your insurance company."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "I prescribe medication only if you are meeting with me regularly in psychotherapy."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Our work is strictly confidential. Before I can communicate with anyone, you must sign a release of information."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Please call at least 24 hours in advance to change or cancel an appointment, or I will charge in full unless it is an emergency."
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Call to arrange an appointment."
+                    },
+                    {
+                      "type": "hardBreak"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Phone: (303) 877-2270",
+                      "marks": [
+                        {
+                          "type": "bold"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "hardBreak"
+                    },
+                    {
+                      "type": "text",
+                      "text": "Email: drdave218@gmail.com",
+                      "marks": [
+                        {
+                          "type": "bold"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Office Address: 1900 Bluff Street Boulder, CO 80304",
+                      "marks": [
+                        {
+                          "type": "bold"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 3
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "HOURS:"
+                    }
+                  ]
+                },
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 3
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Monday – Thursday: 9 am – 6 pm"
+                    }
+                  ]
+                },
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 3
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Closed: Friday, Saturday, and Sunday"
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          "style": {
+            "align": {
+              "d": "center"
+            }
+          }
+        },
+        {
+          "id": "blk_snv21n3gae",
+          "type": "form",
+          "v": 1,
+          "fields": {
+            "form": {
+              "id": "frm_fgx3020vgp",
+              "name": "Contact Form",
+              "fields": [
+                {
+                  "name": "name",
+                  "label": "Name",
+                  "required": true,
+                  "type": "text"
+                },
+                {
+                  "name": "email",
+                  "label": "Email",
+                  "required": true,
+                  "type": "email"
+                },
+                {
+                  "name": "message",
+                  "label": "Message",
+                  "required": true,
+                  "type": "textarea"
+                }
+              ],
+              "submitLabel": "Submit",
+              "success": {
+                "type": "message",
+                "message": "Thank you for your message. Dr. Nichol will get back to you as soon as possible."
+              },
+              "notifyOwner": true
+            }
+          }
+        }
+      ],
+      "preset": "starter/stack-12@1"
+    }
+  ]
+}

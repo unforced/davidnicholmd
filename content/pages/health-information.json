@@ -1,0 +1,1207 @@
+{
+  "id": "pg_6qnnfbeaqr",
+  "title": "Health Information",
+  "slug": "health-information",
+  "seo": {
+    "description": "Explore curated health resources and tools to support your mental wellness journey."
+  },
+  "sections": [
+    {
+      "id": "sec_dbf0jca0te",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        }
+      },
+      "style": {
+        "colorTheme": "light"
+      },
+      "blocks": [
+        {
+          "id": "blk_wbjxv37m28",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 1
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Health information"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "preset": "starter/stack-12@1"
+    },
+    {
+      "id": "sec_vh89adz88k",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        }
+      },
+      "style": {
+        "colorTheme": "light"
+      },
+      "blocks": [
+        {
+          "id": "blk_r7qebg429z",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 2
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Diet"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "A healthy, balanced diet, with moderate caloric intake is a major factor in how you feel day-to-day, and in your longevity. As a rule, eat plenty of vegetables and fruits, whole grains and beans, fish two or three times a week, low-fat dairy and meat, and minimize white flour, sugar, and alcohol. The "
+                    },
+                    {
+                      "type": "text",
+                      "text": "Mediterranean diet",
+                      "marks": [
+                        {
+                          "type": "link",
+                          "attrs": {
+                            "href": "http://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/in-depth/mediterranean-diet/art-20047801",
+                            "newTab": true
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": " is a good healthy plan. The China Study, by T. Colin Campbell, the most comprehensive study of nutrition ever conducted, concludes that high consumption of animal-based foods (meat, dairy and eggs), is associated with more chronic disease, while consumption of a primarily plant-based diet results in optimal health and longevity. The American Heart Association's "
+                    },
+                    {
+                      "type": "text",
+                      "text": "DASH",
+                      "marks": [
+                        {
+                          "type": "link",
+                          "attrs": {
+                            "href": "http://dashdiet.org/default.asp",
+                            "newTab": true
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": " diet is extremely well researched."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "My research has led me to what I believe is the healthiest diet you could adopt, developed by Andrew Weil, MD:"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "The Anti-Inflammatory Diet is not a diet in the popular sense - it is not intended as a weight-loss program (although people can and do lose weight on it), nor is it an eating plan to stay on for a limited period of time. Rather, it is way of selecting and preparing foods based on scientific knowledge of how they can help your body and brain maintain optimum health. Along with influencing inflammation, this diet will provide steady energy and ample vitamins, minerals, essential fatty acids dietary fiber, and protective phytonutrients."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "You can also adapt your existing recipes according to these anti-inflammatory diet principles:"
+                    }
+                  ]
+                },
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 3
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "GENERAL DIET TIPS"
+                    }
+                  ]
+                },
+                {
+                  "type": "bulletList",
+                  "content": [
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Aim for variety."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Include as much fresh food as possible."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Minimize your consumption of processed foods and fast food."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Eat an abundance of fruits and vegetables."
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 3
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "CALORIC INTAKE"
+                    }
+                  ]
+                },
+                {
+                  "type": "bulletList",
+                  "content": [
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Most adults need to consume between 2,000 and 3,000 calories a day."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Women and smaller and less active people need fewer calories."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Men and bigger and more active people need more calories."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "If you are eating the appropriate number of calories for your level of activity, your weight should not fluctuate greatly."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "The distribution of calories you take in should be as follows: 40 to 50 percent from carbohydrates, 30 percent from fat, and 20 to 30 percent from protein."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Try to include carbohydrates, fat, and protein at each meal."
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 3
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "CARBOHYDRATES"
+                    }
+                  ]
+                },
+                {
+                  "type": "bulletList",
+                  "content": [
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "On a 2,000-calorie-a-day diet, adult women should consume between 160 to 200 grams of carbohydrates a day."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Adult men should consume between 240 to 300 grams of carbohydrates a day."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "The majority of this should be in the form of less-refined, less-processed foods with a low glycemic load."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Reduce your consumption of foods made with wheat flour and sugar, especially bread and most packaged snack foods (including chips and pretzels)."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Eat more whole grains such as brown rice and bulgar wheat, in which the grain is intact or in a few large pieces. These are preferable to whole wheat flour products, which have roughly the same glycemic index as white flour products."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Eat more beans, winter squashes, and sweet potatoes."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Cook pasta al dente and eat it in moderation."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Avoid products made with high fructose corn syrup and other added sugars."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "If you have problems with gluten, remove wheat, rye, barley, triticale, and spelt."
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 3
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "FAT"
+                    }
+                  ]
+                },
+                {
+                  "type": "bulletList",
+                  "content": [
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "On a 2,000-calorie-a-day diet, 600 calories can come from fat - that is, about 67 grams. This should be in a ratio of 1:2:1 of saturated to monounsaturated to polyunsaturated fat."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Reduce your intake of saturated fat by eating less butter, cream, high-fat cheese, unskinned chicken and fatty meats, and products made with palm kernel oil."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Use extra-virgin olive oil as a main cooking oil. Use coconut oil for frying, as highly-heated olive oil is toxic. If you want a neutral tasting oil, use expeller-pressed, organic canola oil. Organic, high-oleic, expeller pressed versions of sunflower and safflower oil are also acceptable."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Avoid regular safflower and sunflower oils, corn oil, cottonseed oil, and mixed vegetable oils."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Strictly avoid margarine, vegetable shortening, and all products listing them as ingredients. Strictly avoid all products made with partially hydrogenated oils of any kind. Include in your diet avocados and nuts, especially walnuts, cashews, almonds, and nut butters made from these nuts."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "For omega-3 fatty acids, eat salmon (preferably fresh or frozen wild or canned sockeye), sardines packed in water or olive oil, herring, and black cod (sablefish, butterfish); omega-3 fortified eggs; hemp seeds and flaxseeds (preferably freshly ground); or take a fish oil supplement (look for products that provide both EPA and DHA, in a convenient daily dosage of two to three grams)."
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 3
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "PROTEIN"
+                    }
+                  ]
+                },
+                {
+                  "type": "bulletList",
+                  "content": [
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "On a 2,000-calorie-a-day diet, your daily intake of protein should be between 80 and 120 grams. Eat less protein if you have liver or kidney problems, allergies, or autoimmune disease."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Decrease your consumption of animal protein except for fish and high quality natural cheese and yogurt."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Eat more vegetable protein, especially from beans in general and soybeans in particular. Become familiar with the range of whole-soy foods available and find ones you like."
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 3
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "FIBER"
+                    }
+                  ]
+                },
+                {
+                  "type": "bulletList",
+                  "content": [
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Try to eat 40 grams of fiber a day. You can achieve this by increasing your consumption of fruit, especially berries, vegetables (especially beans), and whole grains."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Ready-made cereals can be good fiber sources, but read labels to make sure they give you at least 4 and preferably 5 grams of bran per one-ounce serving."
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 3
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "PHYTONUTRIENTS"
+                    }
+                  ]
+                },
+                {
+                  "type": "bulletList",
+                  "content": [
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "To get maximum natural protection against age-related diseases (including cardiovascular disease, cancer, and neurodegenerative disease) as well as against environmental toxicity, eat a variety of fruits, vegetables and mushrooms."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Choose fruits and vegetables from all parts of the color spectrum, especially berries, tomatoes, orange and yellow fruits, and dark leafy greens."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Choose organic produce whenever possible. Learn which conventionally grown crops are most likely to carry pesticide residues and avoid them."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Eat cruciferous (cabbage-family) vegetables regularly."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Include soy foods in your diet."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Drink tea instead of coffee, especially good quality white, green or oolong tea."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "If you drink alcohol, use red wine preferentially."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Enjoy plain dark chocolate in moderation (with a minimum cocoa content of 70 percent)."
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 3
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "VITAMINS AND MINERALS"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "The best way to obtain all of your daily vitamins, minerals, and micronutrients is by eating a diet high in fresh foods with an abundance of fruits and vegetables. In addition, supplement your diet with the following antioxidant cocktail:"
+                    }
+                  ]
+                },
+                {
+                  "type": "bulletList",
+                  "content": [
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Vitamin C, 200 milligrams a day."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Vitamin E, 400 IU of natural mixed tocopherols (d-alpha-tocopherol with other tocopherols, or, better, a minimum of 80 milligrams of natural mixed tocopherols and tocotrienols)."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Selenium, 200 micrograms of an organic (yeast-bound) form."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Mixed carotenoids, 10,000-15,000 IU daily."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "The antioxidants can be most conveniently taken as part of a daily multivitamin/multimineral supplement that also provides at least 400 micrograms of folic acid and 2,000 IU of vitamin D. It should contain no iron (unless you are a female and having regular menstrual periods) and no preformed vitamin A (retinol). Take these supplements with your largest meal."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Women should take supplemental calcium, preferably as calcium citrate, 500-700 milligrams a day, depending on their dietary intake of this mineral. Men should avoid supplemental calcium."
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 3
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "OTHER DIETARY SUPPLEMENTS"
+                    }
+                  ]
+                },
+                {
+                  "type": "bulletList",
+                  "content": [
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "If you are not eating oily fish at least twice a week, take supplemental fish oil, in capsule or liquid form (two to three grams a day of a product containing both EPA and DHA). Look for molecularly distilled products certified to be free of heavy metals and other contaminants."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Talk to your doctor about going on low-dose aspirin therapy, one or two baby aspirins a day (81 or 162 milligrams)."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "If you are not regularly eating ginger and turmeric, consider taking these in supplemental form."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Add coenzyme Q10 (CoQ10) to your daily regimen: 60-100 milligrams of a softgel form taken with your largest meal."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "If you are prone to metabolic syndrome, take alpha-lipoic acid, 100 to 400 milligrams a day."
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 3
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "WATER"
+                    }
+                  ]
+                },
+                {
+                  "type": "bulletList",
+                  "content": [
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Drink pure water, or drinks that are mostly water (tea, very diluted fruit juice, sparkling water with lemon) throughout the day."
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "You can learn more about a healthy lifestyle by going to ",
+                      "marks": [
+                        {
+                          "type": "italic"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": "drweil.com",
+                      "marks": [
+                        {
+                          "type": "link",
+                          "attrs": {
+                            "href": "http://drweil.com/",
+                            "newTab": true
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": " or",
+                      "marks": [
+                        {
+                          "type": "italic"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "preset": "starter/stack-12@1"
+    },
+    {
+      "id": "sec_h60f5s84kp",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        }
+      },
+      "style": {
+        "colorTheme": "light"
+      },
+      "blocks": [
+        {
+          "id": "blk_8kydn606sa",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 2
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Supplements"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "To optimize mood I recommend a good quality multivitamin, vitamin D (dose depending on blood level), fish oil with EPA > 500 mg., and methylfolate 7-15 mg. (after testing for MTHFR gene type)."
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "preset": "starter/stack-12@1"
+    },
+    {
+      "id": "sec_fvba9frhrg",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        }
+      },
+      "style": {
+        "colorTheme": "light"
+      },
+      "blocks": [
+        {
+          "id": "blk_vx6szg62n0",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 2
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Exercise"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "About 100 minutes of cardiovascular work per week is good. This can be as simple as fast walking, or choose activities that are fun for you. 30 minutes of getting your heart rate to 60-80% of your maximum (220 minus your age), six out of seven days per week, can be an effective treatment for depression, as good as an antidepressant."
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        {
+          "id": "blk_z8rfe1t2d8",
+          "type": "spacer",
+          "v": 1,
+          "fields": {
+            "height": "md"
+          }
+        },
+        {
+          "id": "blk_cbx7mmnmnz",
+          "type": "social-links",
+          "v": 1,
+          "fields": {
+            "source": "site",
+            "profiles": [
+              {
+                "network": "instagram",
+                "url": "https://instagram.com/juniperyoga"
+              },
+              {
+                "network": "youtube",
+                "url": "https://youtube.com/@juniperyoga"
+              },
+              {
+                "network": "email",
+                "url": "mailto:hello@juniperyoga.com"
+              }
+            ]
+          }
+        }
+      ],
+      "preset": "starter/stack-12@1"
+    }
+  ]
+}

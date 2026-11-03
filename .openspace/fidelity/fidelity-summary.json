@@ -1,0 +1,192 @@
+{
+  "version": 1,
+  "score": 20,
+  "strict": 20,
+  "scorer": "v4-calibrated",
+  "before": 18,
+  "changes": [
+    "h2: 22px, 22px on phones",
+    "h3: 16px, 16px on phones, tracking 0em",
+    "button: 18px, tracking 0.167em, uppercase",
+    "h2: in the label font, as on the original",
+    "h3: in the label font, as on the original",
+    "content width 1400px",
+    "section padding 200px"
+  ],
+  "strictBefore": 18,
+  "withoutComponents": 20,
+  "pages": [
+    {
+      "path": "/",
+      "device": "desktop",
+      "score": 0,
+      "strict": 0,
+      "before": 0,
+      "strictBefore": 0,
+      "image": "thumb-home-d.jpg",
+      "differs": [
+        "Present",
+        "Buttons: present"
+      ]
+    },
+    {
+      "path": "/",
+      "device": "phone",
+      "score": 40,
+      "strict": 36,
+      "corrections": [
+        "Section 2: columns counted on screen only (2 → 2 counted as 1 → 2; what's off screen or inside one slideshow or map isn't a column).",
+        "Section 3 (a picture alone on a phone) is the picture of section 2, which holds it with its words.",
+        "Section 5 (a picture alone on a phone) is the picture of section 2, which holds it with its words."
+      ],
+      "before": 38,
+      "strictBefore": 34,
+      "image": "thumb-home-m.jpg",
+      "differs": [
+        "Present",
+        "Columns",
+        "Heading"
+      ]
+    },
+    {
+      "path": "/contact",
+      "device": "desktop",
+      "score": 64,
+      "strict": 64,
+      "before": 33,
+      "strictBefore": 33,
+      "image": "thumb-contact-d.jpg",
+      "differs": [
+        "Background",
+        "Columns",
+        "Image placement"
+      ]
+    },
+    {
+      "path": "/contact",
+      "device": "phone",
+      "score": 38,
+      "strict": 38,
+      "before": 27,
+      "strictBefore": 27,
+      "image": "thumb-contact-m.jpg",
+      "differs": [
+        "Present",
+        "Present",
+        "Present"
+      ]
+    },
+    {
+      "path": "/david-nichol-md",
+      "device": "desktop",
+      "score": 0,
+      "strict": 0,
+      "before": 0,
+      "strictBefore": 0,
+      "image": "thumb-david-nichol-md-d.jpg",
+      "differs": [
+        "Present",
+        "Buttons: present"
+      ]
+    },
+    {
+      "path": "/david-nichol-md",
+      "device": "phone",
+      "score": 38,
+      "strict": 37,
+      "corrections": [
+        "Section 2: columns counted on screen only (2 → 1 counted as 1 → 1; what's off screen or inside one slideshow or map isn't a column)."
+      ],
+      "before": 38,
+      "strictBefore": 37,
+      "image": "thumb-david-nichol-md-m.jpg",
+      "differs": [
+        "Present",
+        "Present",
+        "Italic lines"
+      ]
+    },
+    {
+      "path": "/health-information",
+      "device": "desktop",
+      "score": 51,
+      "strict": 51,
+      "before": 47,
+      "strictBefore": 47,
+      "image": "thumb-health-information-d.jpg",
+      "differs": [
+        "Background",
+        "Columns",
+        "Section padding"
+      ]
+    },
+    {
+      "path": "/health-information",
+      "device": "phone",
+      "score": 45,
+      "strict": 45,
+      "before": 45,
+      "strictBefore": 45,
+      "image": "thumb-health-information-m.jpg",
+      "differs": [
+        "Present",
+        "Heading",
+        "Heading"
+      ]
+    },
+    {
+      "path": "/links",
+      "device": "desktop",
+      "score": 46,
+      "strict": 46,
+      "before": 39,
+      "strictBefore": 39,
+      "image": "thumb-links-d.jpg",
+      "differs": [
+        "Background",
+        "Heading",
+        "Columns"
+      ]
+    },
+    {
+      "path": "/links",
+      "device": "phone",
+      "score": 24,
+      "strict": 24,
+      "before": 24,
+      "strictBefore": 24,
+      "image": "thumb-links-m.jpg",
+      "differs": [
+        "Present"
+      ]
+    },
+    {
+      "path": "/mental-health-information",
+      "device": "desktop",
+      "score": 41,
+      "strict": 41,
+      "before": 44,
+      "strictBefore": 44,
+      "image": "thumb-mental-health-information-d.jpg",
+      "differs": [
+        "Background",
+        "Columns",
+        "Section padding"
+      ]
+    },
+    {
+      "path": "/mental-health-information",
+      "device": "phone",
+      "score": 41,
+      "strict": 41,
+      "before": 37,
+      "strictBefore": 37,
+      "image": "thumb-mental-health-information-m.jpg",
+      "differs": [
+        "Present",
+        "Section padding",
+        "Height"
+      ]
+    }
+  ]
+}

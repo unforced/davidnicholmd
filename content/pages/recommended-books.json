@@ -1,0 +1,124 @@
+{
+  "id": "pg_8g6fqgsnpk",
+  "title": "Recommended Books",
+  "slug": "recommended-books",
+  "seo": {
+    "description": "Browse Dr. Nichol’s curated list of books on mental health, trauma recovery, and integrative therapy.",
+    "image": "media/2026/11/fullsizerender-cy5h.webp"
+  },
+  "sections": [
+    {
+      "id": "sec_nt3egyzg50",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        }
+      },
+      "style": {
+        "colorTheme": "light"
+      },
+      "blocks": [
+        {
+          "id": "blk_hm64731hep",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 1
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Recommended Books"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "On depression: The Noonday Demon by Andrew Solomon"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "On PTSD: The Body Keeps the Score by Bessel Van Der Kolk, MD"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "On bipolar illness: An Unquiet Mind by Kay Jameson, PhD"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "On anxiety: My Age of Anxiety by Scott Stossel"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "On marriage: The Seven Principles for Making Marriage Work by John Gottman, PhD"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "On parenting: How to Talk So Kids Will Listen and Listen So Kids Will Talk by Adele Faber"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "On meditation: The One-Minute Meditator by David Nichol, MD and Bill Birchard"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "10% Happier by Dan Harris"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "preset": "starter/stack-12@1"
+    }
+  ]
+}

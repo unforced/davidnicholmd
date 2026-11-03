@@ -1,0 +1,210 @@
+{
+  "id": "pg_v3k5fytx5y",
+  "title": "Studies",
+  "slug": "studies",
+  "seo": {
+    "description": "Discover studies and academic research supporting trauma therapy and integrative psychiatric approaches."
+  },
+  "sections": [
+    {
+      "id": "sec_h1kfgfhbx2",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        }
+      },
+      "style": {
+        "colorTheme": "light"
+      },
+      "blocks": [
+        {
+          "id": "blk_5r9ecbmx18",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 1
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Studies"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "There is so much information and misinformation about mental health online, I recommend using "
+                    },
+                    {
+                      "type": "text",
+                      "text": "Google Scholar",
+                      "marks": [
+                        {
+                          "type": "link",
+                          "attrs": {
+                            "href": "https://scholar.google.com/",
+                            "newTab": true
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": " as your search engine to look up the latest scientific articles."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Here are a few studies I have found particularly interesting:"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "The effects of meditation on perceived stress and related indices of psychological status and sympathetic activation in persons with Alzheimer's disease and their caregivers: a pilot study.",
+                      "marks": [
+                        {
+                          "type": "link",
+                          "attrs": {
+                            "href": "http://www.ncbi.nlm.nih.gov/pubmed/22454689",
+                            "newTab": true
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "A meta-analytic review of the effects of mindfulness meditation on telomerase activity",
+                      "marks": [
+                        {
+                          "type": "link",
+                          "attrs": {
+                            "href": "http://www.psyneuen-journal.com/article/S0306-4530(13)00453-8/abstract",
+                            "newTab": true
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Interventions for children and adolescents with posttraumatic stress disorder: A meta-analysis of comparative outcome studies",
+                      "marks": [
+                        {
+                          "type": "link",
+                          "attrs": {
+                            "href": "http://www.ncbi.nlm.nih.gov/pubmed/27340855",
+                            "newTab": true
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Exercise as a treatment for depression: A meta-analysis.",
+                      "marks": [
+                        {
+                          "type": "link",
+                          "attrs": {
+                            "href": "http://www.ncbi.nlm.nih.gov/pubmed/27253219",
+                            "newTab": true
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Bright light therapy for nonseasonal depression: Meta-analysis of clinical trials",
+                      "marks": [
+                        {
+                          "type": "link",
+                          "attrs": {
+                            "href": "http://www.ncbi.nlm.nih.gov/pubmed/27011361",
+                            "newTab": true
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": "."
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        {
+          "id": "blk_nn0k1n3r7j",
+          "type": "spacer",
+          "v": 1,
+          "fields": {
+            "height": "md"
+          }
+        },
+        {
+          "id": "blk_kmkyqf108f",
+          "type": "social-links",
+          "v": 1,
+          "fields": {
+            "source": "site",
+            "profiles": [
+              {
+                "network": "instagram",
+                "url": "https://instagram.com/juniperyoga"
+              },
+              {
+                "network": "youtube",
+                "url": "https://youtube.com/@juniperyoga"
+              },
+              {
+                "network": "email",
+                "url": "mailto:hello@juniperyoga.com"
+              }
+            ]
+          }
+        }
+      ],
+      "preset": "starter/stack-12@1"
+    }
+  ]
+}

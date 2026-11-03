@@ -1,16 +1,14 @@
 {
-  "$schema": "https://schema.openspace.host/v1/page.json",
-  "id": "pg_rn5pfsqt72",
-  "title": "Home",
+  "id": "pg_hmabdefvmr",
+  "title": "David Nichol MD | Home",
   "slug": "",
   "seo": {
-    "title": null,
-    "description": "Davidnicholmd is being set up.",
-    "noindex": true
+    "title": "David Nichol MD",
+    "description": "I am a board-certified psychiatrist and psychoanalyst in private practice in Boulder, Colorado.  I work with adults, couples, and adolescents. Explore integrative psychiatry and holistic mental health care with Dr. David Nichol in Boulder, CO. Personalized trauma-informed treatments."
   },
   "sections": [
     {
-      "id": "sec_c4afjyzy8p",
+      "id": "sec_qhew39pdd5",
       "layout": {
         "mode": "stack",
         "columns": {
@@ -18,22 +16,176 @@
             12
           ]
         },
-        "align": "center",
         "width": "narrow"
       },
       "style": {
-        "colorTheme": "light",
+        "colorTheme": "dark",
         "padding": {
-          "d": "xl",
-          "m": "lg"
+          "d": "2xl",
+          "m": "xl"
+        },
+        "background": {
+          "type": "image",
+          "src": "media/2026/11/img-0078-1-dfzk.webp",
+          "overlay": {
+            "color": "#000000",
+            "opacity": 0.7
+          }
         },
         "minHeight": {
-          "d": "70vh"
+          "d": "88vh",
+          "m": "70svh"
         }
       },
       "blocks": [
         {
-          "id": "blk_1bxv0dzst8",
+          "id": "blk_20by2p6w0s",
+          "type": "heading",
+          "v": 1,
+          "fields": {
+            "text": "INTEGRATIVE PSYCHIATRY",
+            "level": "h2",
+            "size": "display",
+            "eyebrow": "The Gold Standard In:"
+          },
+          "variant": "plain",
+          "style": {
+            "align": {
+              "d": "center"
+            }
+          }
+        }
+      ],
+      "preset": "hero/full-bleed-photo@1"
+    },
+    {
+      "id": "sec_4c65sx0xpe",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            6,
+            6
+          ],
+          "m": [
+            12
+          ]
+        },
+        "align": "center"
+      },
+      "style": {
+        "colorTheme": "light"
+      },
+      "blocks": [
+        {
+          "id": "blk_8yx8kv6anp",
+          "type": "image",
+          "v": 1,
+          "fields": {
+            "image": {
+              "src": "media/2026/11/img-3161-rxj4.webp",
+              "alt": "",
+              "width": 1199,
+              "height": 1600,
+              "mediaId": "med_rxj4e9s9jf"
+            },
+            "aspect": "original",
+            "lightbox": false,
+            "link": {
+              "type": "page",
+              "page": "pg_q1d7tbbvky"
+            }
+          },
+          "column": 0
+        },
+        {
+          "id": "blk_ef9y7wfr9p",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Find out more about my practice, my mission,"
+                    },
+                    {
+                      "type": "hardBreak"
+                    },
+                    {
+                      "type": "text",
+                      "text": "and my methods."
+                    }
+                  ]
+                },
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 3
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Learn More →",
+                      "marks": [
+                        {
+                          "type": "link",
+                          "attrs": {
+                            "href": "/david-nichol-md/"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          "style": {
+            "align": {
+              "d": "center"
+            }
+          },
+          "column": 0
+        },
+        {
+          "id": "blk_p53f4hss7b",
+          "type": "line",
+          "v": 1,
+          "fields": {
+            "thickness": "hairline",
+            "length": "full",
+            "color": "border"
+          },
+          "column": 1
+        },
+        {
+          "id": "blk_by9x0x4vvm",
+          "type": "image",
+          "v": 1,
+          "fields": {
+            "image": {
+              "src": "media/2026/11/tumblr-mn8b8slrb61rkz363o1-1280-004j.webp",
+              "alt": "",
+              "width": 2272,
+              "height": 1704,
+              "mediaId": "med_004jesdhd1"
+            },
+            "aspect": "original",
+            "lightbox": false,
+            "link": {
+              "type": "page",
+              "page": "pg_hmabdefvmr"
+            }
+          },
+          "column": 1
+        },
+        {
+          "id": "blk_k6xskwv1cf",
           "type": "text",
           "v": 1,
           "fields": {
@@ -48,36 +200,51 @@
                   "content": [
                     {
                       "type": "text",
-                      "text": "Davidnicholmd"
+                      "text": "EXPLORE YOUR OPTIONS"
                     }
                   ]
-                }
-              ]
-            }
-          }
-        },
-        {
-          "id": "blk_cvr2vbetcm",
-          "type": "text",
-          "v": 1,
-          "fields": {
-            "content": {
-              "type": "doc",
-              "content": [
+                },
                 {
                   "type": "paragraph",
                   "content": [
                     {
                       "type": "text",
-                      "text": "This site is being set up. Please check back soon."
+                      "text": "There are plenty of options out there. Find out what kind of treatment is right for you."
+                    }
+                  ]
+                },
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 3
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Explore Now →",
+                      "marks": [
+                        {
+                          "type": "link",
+                          "attrs": {
+                            "href": "/treatment/options/"
+                          }
+                        }
+                      ]
                     }
                   ]
                 }
               ]
             }
-          }
+          },
+          "style": {
+            "align": {
+              "d": "center"
+            }
+          },
+          "column": 1
         }
-      ]
+      ],
+      "preset": "starter/stack-6-6@1"
     }
   ]
 }

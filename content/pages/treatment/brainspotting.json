@@ -1,0 +1,141 @@
+{
+  "id": "pg_fqm2gdkkpq",
+  "title": "Brainspotting",
+  "slug": "treatment/brainspotting",
+  "seo": {
+    "description": "Access deep healing through brainspotting, a neurobiological trauma therapy that targets unresolved emotional pain. Dr Nichol specializes in this trauma therapy."
+  },
+  "sections": [
+    {
+      "id": "sec_vxy9yr8aq4",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        },
+        "width": "narrow"
+      },
+      "style": {
+        "colorTheme": "dark",
+        "padding": {
+          "d": "2xl",
+          "m": "xl"
+        },
+        "background": {
+          "type": "image",
+          "src": "media/2026/11/dsc03080-zcdt.webp",
+          "overlay": {
+            "color": "#000000",
+            "opacity": 0.45
+          }
+        },
+        "minHeight": {
+          "d": "88vh",
+          "m": "70svh"
+        }
+      },
+      "blocks": [
+        {
+          "id": "blk_0zcnbmew2v",
+          "type": "heading",
+          "v": 1,
+          "fields": {
+            "text": "Brainspotting",
+            "level": "h2",
+            "size": "display"
+          },
+          "variant": "plain",
+          "style": {
+            "align": {
+              "d": "center"
+            }
+          }
+        }
+      ],
+      "preset": "hero/full-bleed-photo@1"
+    },
+    {
+      "id": "sec_90v61z7qar",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        }
+      },
+      "style": {
+        "colorTheme": "light"
+      },
+      "blocks": [
+        {
+          "id": "blk_4v5adf411d",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 1
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Brainspotting"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Brainspotting is a variation of EMDR in which we find specific points in the visual field that are linked to traumatic memories or painful emotions. Brainspotting works by identifying, processing, and releasing core neurophysiological sources of trauma and emotional/body pain. A 'brainspot' is an eye position that the therapist and client find together that correlates with a particular issue or trauma. It taps into the deep brain and the body, and provides direct access to the autonomic and limbic systems within the central nervous system. Bilateral soothing music through headphones is used during the process, which helps to integrate the different capacities of the left and right brain, re-establishing healthy nervous system homeostasis and ease."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Clients often report a sense of calm and clarity following a session. One is better able to trust one's own inner guidance and ability to release previously frozen traumas, stuck issues, painful emotions, and various kinds of physical body pain, and to move toward a greater sense of health, wholeness, love, and freedom."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "To learn more about brainspotting: "
+                    },
+                    {
+                      "type": "text",
+                      "text": "https://brainspotting.com/",
+                      "marks": [
+                        {
+                          "type": "link",
+                          "attrs": {
+                            "href": "https://brainspotting.com/",
+                            "newTab": true
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "preset": "starter/stack-12@1"
+    }
+  ]
+}

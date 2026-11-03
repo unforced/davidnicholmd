@@ -1,0 +1,141 @@
+{
+  "id": "pg_eagrrj3z1t",
+  "title": "EMDR",
+  "slug": "treatment/emdr",
+  "seo": {
+    "description": "Resolve trauma and PTSD with EMDR, an evidence-based therapy using eye movement desensitization for lasting healing. I offer this treatment for trauma-related disorders and mood problems that have not responded to psychotherapy or medication."
+  },
+  "sections": [
+    {
+      "id": "sec_a0adsexhfb",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        },
+        "width": "narrow"
+      },
+      "style": {
+        "colorTheme": "dark",
+        "padding": {
+          "d": "2xl",
+          "m": "xl"
+        },
+        "background": {
+          "type": "image",
+          "src": "media/2026/11/dsc03080-zcdt.webp",
+          "overlay": {
+            "color": "#000000",
+            "opacity": 0.45
+          }
+        },
+        "minHeight": {
+          "d": "88vh",
+          "m": "70svh"
+        }
+      },
+      "blocks": [
+        {
+          "id": "blk_0phbdqb5ha",
+          "type": "heading",
+          "v": 1,
+          "fields": {
+            "text": "EMDR",
+            "level": "h2",
+            "size": "display"
+          },
+          "variant": "plain",
+          "style": {
+            "align": {
+              "d": "center"
+            }
+          }
+        }
+      ],
+      "preset": "hero/full-bleed-photo@1"
+    },
+    {
+      "id": "sec_n3vrsktyty",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        }
+      },
+      "style": {
+        "colorTheme": "light"
+      },
+      "blocks": [
+        {
+          "id": "blk_a28rwz9zq5",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 1
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "EMDR"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Eye Movement Desensitization and Reprocessing (EMDR) is a very effective body-centered treatment I offer for trauma-related disorders and mood problems that have not responded to psychotherapy or medication. In the context of bilateral stimulation to the brain by moving the eyes back and forth while listening to an alternating tone through headphones, we work through traumatic memories and the dysfunctional beliefs that evolved from those traumatic events."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Clients often report a sense of calm and clarity following a session. One is better able to trust one's own inner guidance and ability to release previously frozen traumas, stuck issues, painful emotions, and various kinds of physical body pain, and to move toward a greater sense of health, wholeness, love, and freedom."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "To learn more about EMDR: "
+                    },
+                    {
+                      "type": "text",
+                      "text": "https://www.emdr.com/",
+                      "marks": [
+                        {
+                          "type": "link",
+                          "attrs": {
+                            "href": "https://www.emdr.com/",
+                            "newTab": true
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "preset": "starter/stack-12@1"
+    }
+  ]
+}

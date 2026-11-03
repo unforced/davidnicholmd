@@ -1,0 +1,218 @@
+{
+  "id": "pg_q1d7tbbvky",
+  "title": "About Me",
+  "slug": "david-nichol-md",
+  "seo": {
+    "title": "About",
+    "description": "Learn about Dr. David Nichol, a Boulder-based psychiatrist specializing in holistic and trauma-informed mental health care.",
+    "image": "media/2026/11/davidnicholheadshot-k94a.webp"
+  },
+  "sections": [
+    {
+      "id": "sec_vdkg00ttes",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        },
+        "width": "narrow"
+      },
+      "style": {
+        "colorTheme": "dark",
+        "padding": {
+          "d": "2xl",
+          "m": "xl"
+        },
+        "background": {
+          "type": "image",
+          "src": "media/2026/11/s-v13akmw2hcq0251-zt9s.webp",
+          "overlay": {
+            "color": "#000000",
+            "opacity": 0.45
+          }
+        },
+        "minHeight": {
+          "d": "88vh",
+          "m": "70svh"
+        }
+      },
+      "blocks": [
+        {
+          "id": "blk_yvvfx1cmqq",
+          "type": "heading",
+          "v": 1,
+          "fields": {
+            "text": "Learn about Dr. David Nichol, a Boulder-based psychiatrist specializing in holistic and trauma-informed mental health care.",
+            "level": "h2",
+            "size": "display"
+          },
+          "variant": "plain",
+          "style": {
+            "align": {
+              "d": "center"
+            }
+          }
+        }
+      ],
+      "preset": "hero/full-bleed-photo@1"
+    },
+    {
+      "id": "sec_hp43mahvyd",
+      "layout": {
+        "mode": "stack",
+        "columns": {
+          "d": [
+            12
+          ]
+        }
+      },
+      "style": {
+        "colorTheme": "light"
+      },
+      "blocks": [
+        {
+          "id": "blk_398fe1mdcg",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "heading",
+                  "attrs": {
+                    "level": 1
+                  },
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Dr. David Nichol"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "I am a board-certified psychiatrist and psychoanalyst in "
+                    },
+                    {
+                      "type": "text",
+                      "text": "private practice in Boulder, Colorado.",
+                      "marks": [
+                        {
+                          "type": "link",
+                          "attrs": {
+                            "href": "/contact/"
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": " I work with adults, couples, and adolescents."
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        },
+        {
+          "id": "blk_wz3spj9n3b",
+          "type": "image",
+          "v": 1,
+          "fields": {
+            "image": {
+              "src": "media/2026/11/image-3b68.webp",
+              "alt": "",
+              "width": 1004,
+              "height": 1339,
+              "mediaId": "med_3b68cq3ddh"
+            },
+            "aspect": "original",
+            "lightbox": false
+          }
+        },
+        {
+          "id": "blk_7n6sffb7fd",
+          "type": "text",
+          "v": 1,
+          "fields": {
+            "content": {
+              "type": "doc",
+              "content": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "My integrative approach includes various forms of psychotherapy, medication, supplements, exercise, meditation and ketamine-assisted psychotherapy."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "I completed my psychiatric residency at the Menninger Clinic in Topeka, Kansas, and my psychoanalytic training at the Topeka Institute and the Houston Galveston Institute of Psychoanalysis."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "I am an Assistant Clinical Professor of Psychiatry at the University of Colorado School of Medicine."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "I eagerly pursue continuing education in psychotherapy and psychopharmacology."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "My book, "
+                    },
+                    {
+                      "type": "text",
+                      "text": "The One-Minute Meditator",
+                      "marks": [
+                        {
+                          "type": "link",
+                          "attrs": {
+                            "href": "http://www.oneminutemeditator.com/",
+                            "newTab": true
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "type": "text",
+                      "text": ", is a highly regarded introduction to meditation."
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "preset": "starter/stack-12@1"
+    }
+  ]
+}
