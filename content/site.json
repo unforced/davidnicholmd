@@ -1,0 +1,59 @@
+{
+  "$schema": "https://schema.openspace.host/v1/site.json",
+  "title": "Davidnicholmd",
+  "nav": [
+    {
+      "type": "page",
+      "page": "pg_rn5pfsqt72",
+      "label": "Home"
+    }
+  ],
+  "header": {
+    "variant": "classic-left",
+    "sticky": false,
+    "transparentOnHero": false,
+    "mobileMenu": "slide"
+  },
+  "footer": {
+    "id": "sec_6w56304jwr",
+    "layout": {
+      "mode": "stack",
+      "columns": {
+        "d": [
+          12
+        ]
+      },
+      "align": "center"
+    },
+    "style": {
+      "colorTheme": "light",
+      "padding": {
+        "d": "md"
+      }
+    },
+    "blocks": [
+      {
+        "id": "blk_gvpzdfnz3d",
+        "type": "text",
+        "v": 1,
+        "fields": {
+          "content": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Davidnicholmd"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "locale": "en"
+}
